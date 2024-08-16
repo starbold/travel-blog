@@ -7,10 +7,22 @@ favicon: 'assets/images/logo.png'
 baseurl: "/travel-blog"
 google_analytics: 'G-2KYPHM4M6E'
 disqus: ''
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-include: ["_pages"]
+mailchimp-list: ''
+languages:
+  - en
+  - zh
+default_lang: en
+
+en:
+  lang_name: "English"
+zh:
+  lang_name: "中文"
+
+include:
+  - "_pages/en"
+  - "_pages/zh"
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: ikrontiris@gmail.com
 
 # Authors
 authors:
@@ -26,7 +38,7 @@ authors:
     name: John
     display_name: John    
     avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
+    email: ikrontiris@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
