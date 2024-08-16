@@ -8,19 +8,7 @@ baseurl: "/travel-blog"
 google_analytics: 'G-2KYPHM4M6E'
 disqus: ''
 mailchimp-list: ''
-languages:
-  - en
-  - zh
-default_lang: en
-
-en:
-  lang_name: "English"
-zh:
-  lang_name: "中文"
-
-include:
-  - "_pages/en"
-  - "_pages/zh"
+include: ["_pages"]
 permalink: /:title/
 email: ikrontiris@gmail.com
 
