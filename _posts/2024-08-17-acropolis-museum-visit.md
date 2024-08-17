@@ -63,7 +63,7 @@ In my opinion, don’t skip the museum’s restaurant. Seriously, it’s more th
 
 The Acropolis Museum and the Acropolis itself are two separate experiences, and I highly recommend treating them as such. If you’re a history buff like me, you’ll want to spend at least two hours in the museum to really soak it all in.
 
-For this reason I would recommend booking a [**"skip the line" ticket for the museum**](https://www.getyourguide.com/athens-l91/skip-the-line-acropolis-museum-entry-ticket-t450179/?partner_id=CTQVJ4W&utm_medium=online_publisher&cmp=skip_the_line) and not combine it with the Acropolis visit. At the end of your visit, make sure you spend some time at the restaurant of the museum, which has the best view to the Acropolis. There you can relax and reflect on what you've seen while enjoying your coffee or meal. 
+> For this reason I would recommend booking a [**"skip the line" ticket for the museum**](https://www.getyourguide.com/athens-l91/skip-the-line-acropolis-museum-entry-ticket-t450179/?partner_id=CTQVJ4W&utm_medium=online_publisher&cmp=skip_the_line) and not combine it with the Acropolis visit. At the end of your visit, make sure you spend some time at the restaurant of the museum, which has the best view to the Acropolis. There you can relax and reflect on what you've seen while enjoying your coffee or meal. 
 
 If you’re pressed for time, there’s also a great option to combine your visit to the Acropolis with the museum.  In this case, I would recommend the [**"Acropolis, Parthenon & Acropolis Museum Guided Tour"**](https://gyg.me/jKMPj7Be), with a guide that particuarly places emphasis on the historical context and storytelling. In this way you can combine two of Athens 'Must-Do' Highlights in 4-hours.
 
