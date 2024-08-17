@@ -9,13 +9,26 @@ image: "/assets/images/acropolismuseum.jpg"
 
 If you’re like me and have a passion for history, visiting the Acropolis Museum in Athens is more than just ticking off another tourist spot—it’s stepping into a time machine that transports you back to the heart of ancient Greece. I spent a full afternoon wandering its halls, and let me tell you, it’s an experience that goes far beyond just admiring the famous Parthenon Marbles.
 
-> Given that Athens is becoming over-touristic, I decided to visit the museum this time using a a [**"skip the line" ticket**](https://www.getyourguide.com/athens-l91/skip-the-line-acropolis-museum-entry-ticket-t450179/?partner_id=CTQVJ4W&utm_medium=online_publisher&cmp=skip_the_line). It’s a simple trick, but it makes a world of difference — no more waiting around, just straight to the good stuff. 
+> Given that Athens is becoming over-touristic, the line at the ticket office of the museum usually becomes long! So this time, I decided to visit the museum using a a [**"skip the line" ticket**](https://www.getyourguide.com/athens-l91/skip-the-line-acropolis-museum-entry-ticket-t450179/?partner_id=CTQVJ4W&utm_medium=online_publisher&cmp=skip_the_line), and I was surprised how smooth everything worked at the entrance. It’s a simple trick, but it makes a world of difference — no more waiting around, just straight to the good stuff. 
 
 ## Historical Background
 
 The Acropolis Museum, opened in 2009, is a modern marvel built to house the artifacts from the Acropolis. But did you know that the museum's location was once part of an ancient Athenian neighborhood? During the construction of the museum, extensive excavations revealed a wealth of archaeological remains, including homes, workshops, and baths dating back to the 4th century BC. These findings are now integrated into the museum, allowing visitors to literally walk over the ancient streets of Athens as they enter.
 
 ## Exploring the Museum
+
+### Discovering the Ancient City Beneath the Acropolis Museum
+
+When you visit the Acropolis Museum, the experience begins long before you reach the Parthenon Marbles. Underneath the museum itself lies a fascinating archaeological site — an ancient Athenian neighborhood that has been meticulously preserved and is now open for exploration. As a history enthusiast, this is where my curiosity was truly ignited.
+
+![AncientCity]({{ site.baseurl }}/assets/images/New_Acropolis_Museum_6.jpg){: style="width:100%; display:block; margin-left:auto; margin-right:auto;"}
+
+
+This site is no ordinary excavation. It’s a rare chance to walk through a neighborhood that thrived for over 2,500 years. As I wandered over the glass floors, looking down at the intricate layout of streets, houses, and public spaces, I could almost hear the echoes of daily life in ancient Athens.
+
+The site, discovered during the museum’s construction, reveals layers of history dating back to the Classical period and even earlier. What amazed me was how each layer told a different story about the evolution of Athens — from humble beginnings to the grandeur of the Roman era. The remains of luxurious villas with mosaic floors and private baths speak to the prosperity that some Athenians enjoyed, while the simple homes and workshops remind us of the everyday lives of the city’s craftsmen and traders.
+
+One particularly striking feature is the large Byzantine-era mansion with its central courtyard. This mansion not only highlights the continuity of life in Athens through different historical periods but also offers insights into how Athenian architecture and urban planning evolved over centuries. The site even includes ancient drainage systems and a well-preserved road, offering a glimpse into the infrastructure that supported this bustling part of the city.
 
 ### Ground Floor
 When you first step inside, take a moment to look down. Seriously. Beneath the glass floor are the remains of that ancient neighborhood I mentioned. Most people just walk right over it, but pause for a bit and imagine the daily life that once buzzed in those very streets. It’s a unique way to start your visit—like getting a sneak peek at the “set” before the main show starts.
@@ -29,6 +42,8 @@ This floor is dedicated to the archaic period, showcasing the vibrant and colorf
 ![Caryatids]({{ site.baseurl }}/assets/images/caryatids.jpg){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
 
 The Caryatids, the graceful statues that once supported the porch of the Erechtheion on the Acropolis, are central to this floor. These five remaining figures, displayed in a dedicated space, exemplify the blend of architectural function and artistic beauty that defined Classical Athens. In the museum, visitors can observe these statues up close, appreciating the intricate details that have been meticulously preserved. The absence of the sixth Caryatid, taken by Lord Elgin and now housed in the British Museum, is poignantly marked, symbolizing the ongoing effort to reunite these cultural treasures. What most visitors don’t realize is that these statues were originally painted in vivid colors, now lost to time. The museum has dedicated significant resources to researching and recreating the original color schemes, providing a window into the vibrant world of ancient Greece that is often missing in mainstream narratives.
+
+> Don't miss the captivating video by the renowned filmmaker Costa-Gavras, which vividly illustrates the historical events that led to the destruction and eventual restoration of the Parthenon. This short film, shown in the Parthenon Gallery, is an educational journey that sheds light on the turbulent history of this iconic structure. From the invasion of the Persians to the tragic removal of the marbles by Lord Elgin, the video chronicles the series of events that have left their mark on the Parthenon. 
 
 ### Top Floor
 
@@ -70,3 +85,5 @@ Finally, there is the option of the [**private guided tour**](https://www.getyou
 
 
 <span style="font-size: 0.8em;">*Header Photo by [Phanatic](https://www.flickr.com/photos/phanatic/45164708112) on [Flickr](https://www.flickr.com) (licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*</span>
+
+<span style="font-size: 0.8em;">*Ancient City Photo by [Tomisti](https://commons.wikimedia.org/w/index.php?curid=16226564) (licensed under  CC BY-SA 3.0).*</span>
