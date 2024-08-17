@@ -28,11 +28,12 @@ This floor also features some fascinating votive offerings from the Acropolis sl
 This floor is dedicated to the archaic period, showcasing the vibrant and colorful statues of the era. A particularly intriguing exhibit is the "Kritios Boy," a statue that marks a revolutionary moment in Greek art—the shift from rigid, idealized forms to more naturalistic and dynamic human figures. This statue, often overshadowed by the grandeur of the Parthenon sculptures, is a key piece in understanding the evolution of Greek sculpture.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Porch_of_the_Maidens_%28Caryatids%29_1.jpg" alt="The Caryatids in the Acropolis Museum" width="600"/>
+<sub>CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons</sub>
 
-<img src="assets/images/caryatids.jpg" alt="The Caryatids in the Acropolis Museum" width="200"/>
+<img src="[assets/images/caryatids.jpg](https://github.com/starbold/travel-blog/blob/main/assets/images/caryatids.jpg)" alt="The Caryatids in the Acropolis Museum" width="200"/>
 
 <figure>
-    <img src="[/assets/images/caryatids.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e4/Porch_of_the_Maidens_%28Caryatids%29_1.jpg)"
+    <img src="[assets/images/caryatids.jpg](https://github.com/starbold/travel-blog/blob/main/assets/images/caryatids.jpg)"
          alt="Albuquerque, New Mexico">
     <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
 </figure>
