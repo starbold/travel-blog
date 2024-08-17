@@ -4,7 +4,7 @@ title:  "Beyond the Marbles: Why the Acropolis Museum is a Must-Visit for Histor
 author: sal
 categories: [History, Museums, Travel Guides]
 tags: [Acropolis Museum, Athens, Ancient Greece, Parthenon Marbles, Greek History, Archaeology, Museum Tips, Travel Tips, Cultural Heritage, Private Tours, Greek Cuisine]
-image: "/assests/images/acropolismuseum.jpg"
+image: "/assets/images/acropolismuseum.jpg"
 ---
 
 If you’re like me and have a passion for history, visiting the Acropolis Museum in Athens is more than just ticking off another tourist spot—it’s stepping into a time machine that transports you back to the heart of ancient Greece. I spent a full afternoon wandering its halls, and let me tell you, it’s an experience that goes far beyond just admiring the famous Parthenon Marbles.
