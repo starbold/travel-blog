@@ -21,7 +21,7 @@ The Acropolis Museum, opened in 2009, is a modern marvel built to house the arti
 
 When you visit the Acropolis Museum, the experience begins long before you reach the Parthenon Marbles. Underneath the museum itself lies a fascinating archaeological site — an ancient Athenian neighborhood that has been meticulously preserved and is now open for exploration. As a history enthusiast, this is where my curiosity was truly ignited.
 
-![AncientCity]({{ site.baseurl }}/assets/images/New_Acropolis_Museum_6.jpg){: style="width:100%; display:block; margin-left:auto; margin-right:auto;"}
+![AncientCity]({{ site.baseurl }}/assets/images/New_Acropolis_Museum_6.jpg){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
 
 
 This site is no ordinary excavation. It’s a rare chance to walk through a neighborhood that thrived for over 2,500 years. As I wandered over the glass floors, looking down at the intricate layout of streets, houses, and public spaces, I could almost hear the echoes of daily life in ancient Athens.
