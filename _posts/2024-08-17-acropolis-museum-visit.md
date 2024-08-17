@@ -32,7 +32,7 @@ This floor is dedicated to the archaic period, showcasing the vibrant and colorf
 <img src="assets/images/caryatids.jpg" alt="The Caryatids in the Acropolis Museum" width="200"/>
 
 <figure>
-    <img src="/assets/images/caryatids.jpg"
+    <img src="[/assets/images/caryatids.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e4/Porch_of_the_Maidens_%28Caryatids%29_1.jpg)"
          alt="Albuquerque, New Mexico">
     <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
 </figure>
