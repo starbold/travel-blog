@@ -27,20 +27,15 @@ This floor also features some fascinating votive offerings from the Acropolis sl
 ### First Floor
 This floor is dedicated to the archaic period, showcasing the vibrant and colorful statues of the era. A particularly intriguing exhibit is the "Kritios Boy," a statue that marks a revolutionary moment in Greek art—the shift from rigid, idealized forms to more naturalistic and dynamic human figures. This statue, often overshadowed by the grandeur of the Parthenon sculptures, is a key piece in understanding the evolution of Greek sculpture.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Porch_of_the_Maidens_%28Caryatids%29_1.jpg" alt="The Caryatids in the Acropolis Museum" width="600"/>
-
-<sub>CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons</sub>
-
-<img src="[assets/images/caryatids.jpg](https://github.com/starbold/travel-blog/blob/main/assets/images/caryatids.jpg)" alt="The Caryatids in the Acropolis Museum" width="200"/>
-
 ![Caryatids]({{ site.baseurl }}/assets/images/caryatids.jpg){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
-
 
 The Caryatids, the graceful statues that once supported the porch of the Erechtheion on the Acropolis, are central to this floor. These five remaining figures, displayed in a dedicated space, exemplify the blend of architectural function and artistic beauty that defined Classical Athens. In the museum, visitors can observe these statues up close, appreciating the intricate details that have been meticulously preserved. The absence of the sixth Caryatid, taken by Lord Elgin and now housed in the British Museum, is poignantly marked, symbolizing the ongoing effort to reunite these cultural treasures. What most visitors don’t realize is that these statues were originally painted in vivid colors, now lost to time. The museum has dedicated significant resources to researching and recreating the original color schemes, providing a window into the vibrant world of ancient Greece that is often missing in mainstream narratives.
 
 ### Top Floor
 
 Now, the top floor—wow. The third floor of the Acropolis Museum, known as the Parthenon Gallery, is undoubtedly the crown jewel of the museum. This expansive space is dedicated to the display of the Parthenon Marbles, arranged in a way that mirrors their original placement on the Parthenon itself. The gallery is designed with glass walls, offering panoramic views of the Acropolis, which creates a direct visual and thematic connection between the ancient site and its artifacts.
+
+![TopFloor]({{ site.baseurl }}/assets/images/top-floor.jpg){: style="width:90%; display:block; margin-left:auto; margin-right:auto;"}
 
 But what really struck me was the story this gallery tells about the Parthenon Marbles. There’s a powerful narrative here that subtly underscores the ongoing debate regarding the return of the marbles that remain in the British Museum. The layout and design of this floor highlight the significance of the marbles not only as art but as integral components of a cultural heritage that belongs, many argue, in Greece.
 
