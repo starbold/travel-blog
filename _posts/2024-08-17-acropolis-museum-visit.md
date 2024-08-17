@@ -27,7 +27,7 @@ This floor also features some fascinating votive offerings from the Acropolis sl
 ### First Floor
 This floor is dedicated to the archaic period, showcasing the vibrant and colorful statues of the era. A particularly intriguing exhibit is the "Kritios Boy," a statue that marks a revolutionary moment in Greek art—the shift from rigid, idealized forms to more naturalistic and dynamic human figures. This statue, often overshadowed by the grandeur of the Parthenon sculptures, is a key piece in understanding the evolution of Greek sculpture.
 
-<img src="assets/images/caryatids.jpg" alt="The Caryatids in the Acropolis Museum" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Porch_of_the_Maidens_%28Caryatids%29_1.jpg" alt="The Caryatids in the Acropolis Museum" width="200"/>
 
 ![Alt text](assets/images/caryatids.jpg)
 
