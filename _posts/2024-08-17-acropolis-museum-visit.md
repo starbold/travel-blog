@@ -33,7 +33,8 @@ This floor is dedicated to the archaic period, showcasing the vibrant and colorf
 
 <img src="[assets/images/caryatids.jpg](https://github.com/starbold/travel-blog/blob/main/assets/images/caryatids.jpg)" alt="The Caryatids in the Acropolis Museum" width="200"/>
 
-![My helpful screenshot]({{ site.baseurl }}/assets/images/caryatids.jpg)
+![Caryatids]({{ site.baseurl }}/assets/images/caryatids.jpg){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
+
 
 The Caryatids, the graceful statues that once supported the porch of the Erechtheion on the Acropolis, are central to this floor. These five remaining figures, displayed in a dedicated space, exemplify the blend of architectural function and artistic beauty that defined Classical Athens. In the museum, visitors can observe these statues up close, appreciating the intricate details that have been meticulously preserved. The absence of the sixth Caryatid, taken by Lord Elgin and now housed in the British Museum, is poignantly marked, symbolizing the ongoing effort to reunite these cultural treasures. What most visitors don’t realize is that these statues were originally painted in vivid colors, now lost to time. The museum has dedicated significant resources to researching and recreating the original color schemes, providing a window into the vibrant world of ancient Greece that is often missing in mainstream narratives.
 
