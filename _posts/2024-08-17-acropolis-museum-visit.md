@@ -4,9 +4,8 @@ title:  "Beyond the Marbles: Why the Acropolis Museum is a Must-Visit for Histor
 author: sal
 categories: [History, Museums, Travel Guides]
 tags: [Acropolis Museum, Athens, Ancient Greece, Parthenon Marbles, Greek History, Archaeology, Museum Tips, Travel Tips, Cultural Heritage, Private Tours, Greek Cuisine]
-image: "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
+image: "/assests/images/acropolismuseum.jpg"
 ---
-
 
 If you’re like me and have a passion for history, visiting the Acropolis Museum in Athens is more than just ticking off another tourist spot—it’s stepping into a time machine that transports you back to the heart of ancient Greece. I spent a full afternoon wandering its halls, and let me tell you, it’s an experience that goes far beyond just admiring the famous Parthenon Marbles.
 
@@ -68,3 +67,6 @@ The Acropolis Museum and the Acropolis itself are two separate experiences, and 
 If you’re pressed for time, there’s also a great option to combine your visit to the Acropolis with the museum.  In this case, I would recommend the [**"Acropolis, Parthenon & Acropolis Museum Guided Tour"**](https://gyg.me/jKMPj7Be), with a guide that particuarly places emphasis on the historical context and storytelling. In this way you can combine two of Athens 'Must-Do' Highlights in 4-hours.
 
 Finally, there is the option of the [**private guided tour**](https://www.getyourguide.com/acropolis-of-athens-l3763/athens-acropolis-and-acropolis-museum-private-guided-tour-t227956/?partner_id=CTQVJ4W&utm_medium=online_publisher&cmp=private_tour) that combines the visit to the Acropolis and the visit to the Acropolis Museum in just three hours. Unlike larger group tours, a private guide ensures that your questions are answered and the pace is tailored to your interests. Previous guests have raved about how much more they learned with a private guide, discovering hidden details and stories from mythology, archeology and history.
+
+
+<span style="font-size: 0.8em;">*Header Photo by [Phanatic](https://www.flickr.com/photos/phanatic/45164708112) on [Flickr](https://www.flickr.com) (licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*</span>
