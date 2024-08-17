@@ -10,7 +10,7 @@ image: "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?ixlib=rb-1.2.1
 
 If you’re like me and have a passion for history, visiting the Acropolis Museum in Athens is more than just ticking off another tourist spot—it’s stepping into a time machine that transports you back to the heart of ancient Greece. I spent a full afternoon wandering its halls, and let me tell you, it’s an experience that goes far beyond just admiring the famous Parthenon Marbles.
 
-Given that Athens is becoming over-touristic, I decided to visit the museum this time using a a [**"skip the line" ticket**](https://www.getyourguide.com/athens-l91/skip-the-line-acropolis-museum-entry-ticket-t450179/?partner_id=CTQVJ4W&utm_medium=online_publisher&cmp=skip_the_line). It’s a simple trick, but it makes a world of difference — no more waiting around, just straight to the good stuff. 
+> Given that Athens is becoming over-touristic, I decided to visit the museum this time using a a [**"skip the line" ticket**](https://www.getyourguide.com/athens-l91/skip-the-line-acropolis-museum-entry-ticket-t450179/?partner_id=CTQVJ4W&utm_medium=online_publisher&cmp=skip_the_line). It’s a simple trick, but it makes a world of difference — no more waiting around, just straight to the good stuff. 
 
 ## Historical Background
 
