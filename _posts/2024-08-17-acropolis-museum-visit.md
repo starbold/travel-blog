@@ -95,10 +95,11 @@ For those who appreciate the depth and insight that only a knowledgeable guide c
 
 <!-- GetYourGuide Analytics -->
 
-{% raw %}
-<!-- GetYourGuide Analytics -->
-<script async defer src="https://widget.getyourguide.com/dist/pa.umd.production.min.js" data-gyg-partner-id="CTQVJ4W"></script>
-{% endraw %}
+<!-- Include the GetYourGuide widget script -->
+<script src="{{ site.baseurl }}/assets/js/getyourguidet.js"></script>
+
+<!-- Place the widget here -->
+<div id="getyourguidet"></div>
 
 <span style="font-size: 0.8em;">*Header Photo by [Phanatic](https://www.flickr.com/photos/phanatic/45164708112) on [Flickr](https://www.flickr.com) (licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*</span>
 <span style="font-size: 0.8em;">*Ancient City Photo by [Tomisti](https://commons.wikimedia.org/w/index.php?curid=16226564) (licensed under  CC BY-SA 3.0).*</span>

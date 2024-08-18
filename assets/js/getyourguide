@@ -1,0 +1,9 @@
+// getyourguidet.js
+(function() {
+    var script = document.createElement('script');
+    script.src = "https://widget.getyourguide.com/dist/pa.umd.production.min.js";
+    script.async = true;
+    script.defer = true;
+    script.setAttribute('data-gyg-partner-id', 'CTQVJ4W');
+    document.head.appendChild(script);
+})();
