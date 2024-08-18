@@ -73,21 +73,23 @@ In my opinion, don’t skip the museum’s restaurant. Seriously, it’s more th
 - **Tickets:** Prices vary depending on the season, with discounts available for students and seniors. If you’re planning to visit multiple sites in Athens, consider a combined ticket that includes the Acropolis Museum and other archaeological sites.
 - **Location:** Dionysiou Areopagitou Street, a pedestrian avenue that offers a scenic walk from the Acropolis metro station to the museum.
 
-## Pro Tip: How to Plan your Visit
+## Pro Tip: How to Plan your Visit to the Museum
 
-The Acropolis Museum and the Acropolis itself are two separate experiences, and I highly recommend treating them as such. If you’re a history buff like me, you’ll want to spend at least two hours in the museum to really soak it all in.
+I’ve visited the Acropolis Museum more times than I can count, and every time I go, I’m reminded of just how much there is to uncover. If you’re a history lover like me, you’ll appreciate the depth of stories hidden within these walls. To make the most of your visit, I highly recommend getting a skip-the-line ticket. It’s such a time-saver, especially since Athens is getting a problem from over-tourism and lines at Acropolis museum are getting huge!
+
+Also, if you can spend the extra buck, consider joining a small group guided tour. There’s nothing quite like having an expert walk you through the exhibits, sharing fascinating insights and stories that you might miss on your own. Trust me, the museum comes alive in a whole new way when you’ve got a knowledgeable guide leading the way.
+
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="acropolis_museum" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="450179,54958"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
 
 
-## Guided Tours of the Acropolis Museum
+## Combi Guided Tours of the Acropolis and the Acropolis Museum
 
-For those who appreciate the depth and insight that only a knowledgeable guide can provide, these tours offer a rich, narrative-driven exploration of the Acropolis Museum. Perfect for history enthusiasts, these options ensure that you don’t just see the artifacts, but truly understand the stories they tell.
+I get it—when you’re in Athens, there’s so much to see and so little time. That’s why I often recommend a combined tour of the Acropolis and the Acropolis Museum. These tours are perfect and they will help you connect the dots between the ruins and the museum exhibits — everything just clicks into place.
 
+Below are some of the best Combi tours I’ve come across. They offer a well-rounded experience that ties together the history of the Acropolis with the treasures housed in the museum. 
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="4" data-gyg-cmp="acropolis_museum" data-gyg-partner-id="CTQVJ4W" data-gyg-q="Athens: Acropolis and Acropolis Museum Private Guided Tour">
-    <span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/-t227956">GetYourGuide</a></span>
-</div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="4" data-gyg-cmp="acropolis_museum" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="181448,85922,108334,227956"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
 
 <span style="font-size: 0.8em;">*Header Photo by [Phanatic](https://www.flickr.com/photos/phanatic/45164708112) on [Flickr](https://www.flickr.com) (licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*</span>
 <span style="font-size: 0.8em;">*Ancient City Photo by [Tomisti](https://commons.wikimedia.org/w/index.php?curid=16226564) (licensed under  CC BY-SA 3.0).*</span>
