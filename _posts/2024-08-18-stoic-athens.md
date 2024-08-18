@@ -4,7 +4,6 @@ title:  "Discovering the Secrets of Stoicism in Modern Athens"
 author: sal
 categories: [History, Philosophy, Athens Guides]
 tags: [Stoicism, Ancient Greece, Philosophy, Athens, Historical Sites, Hidden Gems, Archaeology]
-Cultural Heritage, Private Tours, Greek Cuisine]
 image: "/assets/images/athens-stoa.jpg"
 ---
 
