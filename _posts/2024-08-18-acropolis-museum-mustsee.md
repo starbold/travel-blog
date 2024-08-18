@@ -4,8 +4,8 @@ title:  "5 Must-See Artifacts at the Acropolis Museum for History Buffs"
 author: sal
 categories: [History, Museums, Travel Guides]
 tags: [Acropolis Museum, Athens, Ancient Greece, Parthenon Marbles, Greek History, Archaeology, Museum Tips, Travel Tips, Cultural Heritage]
-image: assets/images/2.jpg
-rating: 4.5
+image: assets/images/headercar.jpg
+rating: 5
 ---
 
 If you’re a history enthusiast like me, the Acropolis Museum is an absolute treasure trove. After countless visits, I've narrowed down five artifacts that no one should miss. These pieces aren't just beautiful; they carry stories that reveal the rich and complex history of ancient Athens.
