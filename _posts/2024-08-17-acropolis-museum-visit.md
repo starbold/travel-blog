@@ -95,8 +95,11 @@ For those who appreciate the depth and insight that only a knowledgeable guide c
 
 <!-- GetYourGuide Analytics -->
 
-<!-- Include the GetYourGuide widget script -->
-<script src="{{ site.baseurl }}/assets/js/getyourguide.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    alert("JavaScript is working!");
+});
+</script>
 
 
 <span style="font-size: 0.8em;">*Header Photo by [Phanatic](https://www.flickr.com/photos/phanatic/45164708112) on [Flickr](https://www.flickr.com) (licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*</span>
