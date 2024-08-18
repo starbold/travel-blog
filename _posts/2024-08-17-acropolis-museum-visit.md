@@ -69,9 +69,9 @@ In my opinion, don’t skip the museum’s restaurant. Seriously, it’s more th
 
 ## Practical Information
 
-- **Opening Hours:** The museum is open daily, with extended hours in the summer. Consider visiting early in the morning or late in the afternoon to avoid the crowds.
-- **Tickets:** Prices vary depending on the season, with discounts available for students and seniors. If you’re planning to visit multiple sites in Athens, consider a combined ticket that includes the Acropolis Museum and other archaeological sites.
-- **Location:** Dionysiou Areopagitou Street, a pedestrian avenue that offers a scenic walk from the Acropolis metro station to the museum.
+- **Opening Hours:** TThe museum opens daily at 9 AM. In winter (November to March), it closes at 5 PM on weekdays, 10 PM on Fridays, and 8 PM on weekends. In summer (April to October), it typically closes at 8 PM, with extended hours on certain days. Consider visiting early in the morning or late in the afternoon to avoid the crowds.
+- **Tickets:** Admission is €15 in summer and €10 in winter for adults. Reduced rates apply for EU students and seniors, while children under 18 and foreign students with an ISIC card enter for free. Check the museum's website for any free admission days.
+- **Location:** The museum is located in the central Plaka neighborhood, adjacent to the Acropolis metro station.
 
 ## Pro Tip: How to Plan your Visit to the Museum
 
