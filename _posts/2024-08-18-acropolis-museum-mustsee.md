@@ -42,7 +42,7 @@ If you’re a history enthusiast like me, the Acropolis Museum is an absolute tr
 
 ## 4. The Calf-Bearer (Moschophoros)
 
-![Moschophoros]({{ site.baseurl }}/assets/images/moschophoros.png){: style="width:70%; display:block; margin-left:auto; margin-right:auto;"}
+![Moschophoros]({{ site.baseurl }}/assets/images/moschophoros.png){: style="width:60%; display:block; margin-left:auto; margin-right:auto;"}
 
 **Historical Background**: The Calf-Bearer is an early 6th-century BC statue depicting a man carrying a calf, likely as a sacrificial offering to the gods. This statue was discovered during the excavation of the Acropolis in the 19th century, buried in the debris left by the Persian destruction of Athens in 480 BC.
 
