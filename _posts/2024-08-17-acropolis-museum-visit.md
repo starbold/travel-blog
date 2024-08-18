@@ -96,7 +96,7 @@ For those who appreciate the depth and insight that only a knowledgeable guide c
 <!-- GetYourGuide Analytics -->
 
 <!-- Include the GetYourGuide widget script -->
-<script src="{{ site.baseurl }}/assets/js/getyourguidet.js"></script>
+<script src="{{ site.baseurl }}/assets/js/getyourguide.js"></script>
 
 <!-- Place the widget here -->
 <div id="getyourguidet"></div>
