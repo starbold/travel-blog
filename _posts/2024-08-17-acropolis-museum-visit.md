@@ -94,4 +94,3 @@ Below are some of the best Combi tours I’ve come across. They offer a well-rou
 <span style="font-size: 0.8em;">*Header Photo by [Phanatic](https://www.flickr.com/photos/phanatic/45164708112) on [Flickr](https://www.flickr.com) (licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*</span>
 <span style="font-size: 0.8em;">*Ancient City Photo by [Tomisti](https://commons.wikimedia.org/w/index.php?curid=16226564) (licensed under  CC BY-SA 3.0).*</span>
 
-<small>Photo by [piet theisohn](https://www.flickr.com/photos/piet_theisohn/17333885496/) on [Flickr](https://www.flickr.com) (licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)).</small>

@@ -4,7 +4,7 @@ title:  "5 Must-See Artifacts at the Acropolis Museum for History Buffs"
 author: sal
 categories: [History, Museums, Travel Guides]
 tags: [Acropolis Museum, Athens, Ancient Greece, Parthenon Marbles, Greek History, Archaeology, Museum Tips, Travel Tips, Cultural Heritage]
-image: assets/images/headercar.jpg
+image: assets/images/kritiosheader.jpg
 rating: 5
 ---
 
@@ -88,3 +88,6 @@ For those who want to go beyond the museum walls and really connect the dots bet
 But, if you're someone who values a more personal touch, I can’t recommend the [**private guided tour**](https://www.getyourguide.com/acropolis-of-athens-l3763/athens-acropolis-and-acropolis-museum-private-guided-tour-t227956/?partner_id=CTQVJ4W&utm_medium=online_publisher&cmp=private_tour) enough. With this option, you have the luxury of time and focus—whether you're intrigued by the secrets behind the **Gravas Video** or want a closer look at the **Parthenon Marbles**. A private guide tailors the tour to your interests, making sure your experience is as enriching as possible. It’s a fantastic way to ensure you don’t miss a single detail of these incredible artifacts.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="4" data-gyg-cmp="acropolis_museum" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="181448,85922,108334,227956"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
+
+<span style="font-size: 0.8em;">*Header Photo by [thanassis 79](https://www.flickr.com/photos/30032040@N05/3654358950/) on [Flickr](https://www.flickr.com) (licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)).*</span>
+
