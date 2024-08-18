@@ -93,10 +93,11 @@ For those who appreciate the depth and insight that only a knowledgeable guide c
 | **Comprehensive Historical Journey** | A 4-hour tour that includes the Acropolis, Parthenon, and Acropolis Museum. Perfect for understanding the connection between the ruins and the museum’s exhibits. | 4 hours | Expert guide, Skip-the-line tickets, Walking tour | [Book the Tour](https://gyg.me/jKMPj7Be) |
 | **Private and Personalized** | Explore the museum at your own pace with a private guide who tailors the tour to your interests. Ideal for those wanting a personalized experience. | 3 hours | Private guide, Skip-the-line tickets, Flexible itinerary | [Book the Tour](https://www.getyourguide.com/acropolis-private-tour) |
 
-<!-- GetYourGuide Analytics -->
+<!-- GetYourGuide Widget -->
+<script async defer src="https://widget.getyourguide.com/dist/pa.umd.production.min.js" data-gyg-partner-id="CTQVJ4W"></script>
 
-<script src="{{ site.baseurl }}/assets/js/getyourguide.js"></script>
-
+<!-- Example widget for testing -->
+<div data-gyg-partner-id="CTQVJ4W" data-gyg-widget="search"></div>
 
 <span style="font-size: 0.8em;">*Header Photo by [Phanatic](https://www.flickr.com/photos/phanatic/45164708112) on [Flickr](https://www.flickr.com) (licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*</span>
 <span style="font-size: 0.8em;">*Ancient City Photo by [Tomisti](https://commons.wikimedia.org/w/index.php?curid=16226564) (licensed under  CC BY-SA 3.0).*</span>
