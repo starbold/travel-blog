@@ -12,6 +12,8 @@ If you’re a history enthusiast like me, the Acropolis Museum is an absolute tr
 
 ## 1. The Kritios Boy
 
+![KritiosBoy]({{ site.baseurl }}/assets/images/kritiosboy.jpg){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
+
 **Historical Background**: The Kritios Boy, dating to around 480 BC, is a landmark in the history of Greek sculpture. It represents the transition from the Archaic to the Classical period, moving away from the rigid and static kouros figures to a more naturalistic portrayal of the human body. This statue was found on the Acropolis, buried deliberately to protect it after the Persians sacked Athens in 480 BC.
 
 **Why It’s Significant**: The Kritios Boy is crucial for understanding the development of naturalism in Greek art. It shows the early use of contrapposto, a pose where the weight is shifted onto one leg, giving the figure a sense of movement and realism that was revolutionary for its time.
@@ -19,6 +21,8 @@ If you’re a history enthusiast like me, the Acropolis Museum is an absolute tr
 **What to Look For**: Examine the subtle shift in weight, the slight turn of the head, and the detailed musculature. These elements mark a significant break from the earlier, more rigid styles of sculpture.
 
 ## 2. The Caryatids
+
+![Caryatids]({{ site.baseurl }}/assets/images/caryatids.jpg){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
 
 **Historical Background**: The Caryatids are six female figures that originally supported the roof of the Erechtheion, a temple on the Acropolis. They date back to the late 5th century BC and are remarkable for their combination of architectural support and sculptural beauty. Five of the Caryatids are in the Acropolis Museum, while the sixth was removed by Lord Elgin in the early 19th century and is now in the British Museum.
 
@@ -28,6 +32,8 @@ If you’re a history enthusiast like me, the Acropolis Museum is an absolute tr
 
 ## 3. The Parthenon Marbles
 
+![Marbles]({{ site.baseurl }}/assets/images/marbles.jpg){: style="width:70%; display:block; margin-left:auto; margin-right:auto;"}
+
 **Historical Background**: The Parthenon Marbles, also known as the Elgin Marbles, originally adorned the Parthenon temple. Created under the direction of the sculptor Phidias in the mid-5th century BC, these sculptures depict scenes from Greek mythology, religious rituals, and historical events. They are masterpieces of Classical Greek art and embody the ideals of harmony, proportion, and beauty.
 
 **Why It’s Significant**: The Parthenon Marbles are at the heart of the debate over the repatriation of cultural heritage. Their removal by Lord Elgin has been a source of controversy, and their absence from Greece is felt deeply. They are not only artistic masterpieces but also vital pieces of Greek national identity.
@@ -36,6 +42,8 @@ If you’re a history enthusiast like me, the Acropolis Museum is an absolute tr
 
 ## 4. The Calf-Bearer (Moschophoros)
 
+![Moschophoros]({{ site.baseurl }}/assets/images/moschophoros.jpg){: style="width:70%; display:block; margin-left:auto; margin-right:auto;"}
+
 **Historical Background**: The Calf-Bearer is an early 6th-century BC statue depicting a man carrying a calf, likely as a sacrificial offering to the gods. This statue was discovered during the excavation of the Acropolis in the 19th century, buried in the debris left by the Persian destruction of Athens in 480 BC.
 
 **Why It’s Significant**: The statue is an early example of Greek sculpture's move towards naturalism. It also represents the religious practices of ancient Athens, where offerings played a central role in worship. The Calf-Bearer is a testament to the religious devotion of the Athenians and their deep connection to the divine.
@@ -43,6 +51,8 @@ If you’re a history enthusiast like me, the Acropolis Museum is an absolute tr
 **What to Look For**: Focus on the detailed carving of the man's face, the careful depiction of the calf, and the emotion conveyed through the simple act of carrying the animal. The balance between the man and the calf creates a harmonious composition.
 
 ## 5. The Mourning Athena Relief
+
+![Athena]({{ site.baseurl }}/assets/images/mourning.jpg){: style="width:70%; display:block; margin-left:auto; margin-right:auto;"}
 
 **Historical Background**: The Mourning Athena is a relief sculpture dating from the late 5th century BC. It shows Athena, the goddess of wisdom and war, standing before a stele (grave marker) with her head slightly bowed. This piece is thought to symbolize mourning for the dead, possibly those who fell in battle.
 
