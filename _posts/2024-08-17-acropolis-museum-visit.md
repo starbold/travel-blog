@@ -77,21 +77,12 @@ In my opinion, don’t skip the museum’s restaurant. Seriously, it’s more th
 
 The Acropolis Museum and the Acropolis itself are two separate experiences, and I highly recommend treating them as such. If you’re a history buff like me, you’ll want to spend at least two hours in the museum to really soak it all in.
 
-> For this reason I would recommend booking a [**"skip the line" ticket for the museum**](https://www.getyourguide.com/athens-l91/skip-the-line-acropolis-museum-entry-ticket-t450179/?partner_id=CTQVJ4W&utm_medium=online_publisher&cmp=skip_the_line) and not combine it with the Acropolis visit. At the end of your visit, make sure you spend some time at the restaurant of the museum, which has the best view to the Acropolis. There you can relax and reflect on what you've seen while enjoying your coffee or meal. 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="acropolis_museum" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="450179,54958"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
 
-If you’re pressed for time, there’s also a great option to combine your visit to the Acropolis with the museum.  In this case, I would recommend the [**"Acropolis, Parthenon & Acropolis Museum Guided Tour"**](https://gyg.me/jKMPj7Be), with a guide that particuarly places emphasis on the historical context and storytelling. In this way you can combine two of Athens 'Must-Do' Highlights in 4-hours.
-
-Finally, there is the option of the [**private guided tour**](https://www.getyourguide.com/acropolis-of-athens-l3763/athens-acropolis-and-acropolis-museum-private-guided-tour-t227956/?partner_id=CTQVJ4W&utm_medium=online_publisher&cmp=private_tour) that combines the visit to the Acropolis and the visit to the Acropolis Museum in just three hours. Unlike larger group tours, a private guide ensures that your questions are answered and the pace is tailored to your interests. Previous guests have raved about how much more they learned with a private guide, discovering hidden details and stories from mythology, archeology and history.
 
 ## Guided Tours of the Acropolis Museum
 
 For those who appreciate the depth and insight that only a knowledgeable guide can provide, these tours offer a rich, narrative-driven exploration of the Acropolis Museum. Perfect for history enthusiasts, these options ensure that you don’t just see the artifacts, but truly understand the stories they tell.
-
-| **Tour Name** | **Description** | **Duration** | **Includes** | **Link** |
-|---------------|-----------------|--------------|--------------|----------|
-| **In-Depth Museum Exploration** | Dive deep into the Acropolis Museum's collection with a guide specializing in ancient Greek history. Ideal for those focused exclusively on the museum. | 1.5-2 hours | Expert guide, Skip-the-line ticket | [Book the Tour](https://www.getyourguide.com/acropolis-museum-tour) |
-| **Comprehensive Historical Journey** | A 4-hour tour that includes the Acropolis, Parthenon, and Acropolis Museum. Perfect for understanding the connection between the ruins and the museum’s exhibits. | 4 hours | Expert guide, Skip-the-line tickets, Walking tour | [Book the Tour](https://gyg.me/jKMPj7Be) |
-| **Private and Personalized** | Explore the museum at your own pace with a private guide who tailors the tour to your interests. Ideal for those wanting a personalized experience. | 3 hours | Private guide, Skip-the-line tickets, Flexible itinerary | [Book the Tour](https://www.getyourguide.com/acropolis-private-tour) |
 
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="4" data-gyg-cmp="acropolis_museum" data-gyg-partner-id="CTQVJ4W" data-gyg-q="Athens: Acropolis and Acropolis Museum Private Guided Tour">
