@@ -95,25 +95,10 @@ For those who appreciate the depth and insight that only a knowledgeable guide c
 
 <!-- GetYourGuide Analytics -->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
+{% raw %}
+<!-- GetYourGuide Analytics -->
+<script async defer src="https://widget.getyourguide.com/dist/pa.umd.production.min.js" data-gyg-partner-id="CTQVJ4W"></script>
+{% endraw %}
 
-    <title>{{ page.title }} | {{ site.name }}</title>
-
-    {% seo %}
-
-    <!-- GetYourGuide Analytics -->
-    <script async defer src="https://widget.getyourguide.com/dist/pa.umd.production.min.js" data-gyg-partner-id="CTQVJ4W"></script>
-
-    <!-- Other scripts and styles -->
-</head>
-<body>
-    <!-- Your body content -->
-</body>
-</html>
 <span style="font-size: 0.8em;">*Header Photo by [Phanatic](https://www.flickr.com/photos/phanatic/45164708112) on [Flickr](https://www.flickr.com) (licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*</span>
 <span style="font-size: 0.8em;">*Ancient City Photo by [Tomisti](https://commons.wikimedia.org/w/index.php?curid=16226564) (licensed under  CC BY-SA 3.0).*</span>
