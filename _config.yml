@@ -15,13 +15,13 @@ email: ikrontiris@gmail.com
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Alexandros
+    display_name: Alexandros
     avatar: 'assets/images/avatar-sal.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/donate/
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    description: "Alexandros Kostas is a historian with a deep passion for ancient Greece, having studied history at the University of Athens. After spending years in the academic world, he decided to take his love for history outside the classroom, leading specialized tours of archaeological sites across Athens. Alexandros is also known for his unique hobby of collecting and restoring ancient Greek pottery fragments, which he occasionally showcases in his blog."
   john:
     name: John
     display_name: John    
