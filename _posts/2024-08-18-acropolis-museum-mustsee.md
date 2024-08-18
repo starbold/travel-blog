@@ -12,7 +12,7 @@ If you’re a history enthusiast like me, the Acropolis Museum is an absolute tr
 
 ## 1. The Kritios Boy
 
-![KritiosBoy]({{ site.baseurl }}/assets/images/kritiosboy.jpg){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
+![KritiosBoy]({{ site.baseurl }}/assets/images/kritiosboy.jpeg){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
 
 **Historical Background**: The Kritios Boy, dating to around 480 BC, is a landmark in the history of Greek sculpture. It represents the transition from the Archaic to the Classical period, moving away from the rigid and static kouros figures to a more naturalistic portrayal of the human body. This statue was found on the Acropolis, buried deliberately to protect it after the Persians sacked Athens in 480 BC.
 
@@ -42,7 +42,7 @@ If you’re a history enthusiast like me, the Acropolis Museum is an absolute tr
 
 ## 4. The Calf-Bearer (Moschophoros)
 
-![Moschophoros]({{ site.baseurl }}/assets/images/moschophoros.jpg){: style="width:70%; display:block; margin-left:auto; margin-right:auto;"}
+![Moschophoros]({{ site.baseurl }}/assets/images/moschophoros.png){: style="width:70%; display:block; margin-left:auto; margin-right:auto;"}
 
 **Historical Background**: The Calf-Bearer is an early 6th-century BC statue depicting a man carrying a calf, likely as a sacrificial offering to the gods. This statue was discovered during the excavation of the Acropolis in the 19th century, buried in the debris left by the Persian destruction of Athens in 480 BC.
 
@@ -52,7 +52,7 @@ If you’re a history enthusiast like me, the Acropolis Museum is an absolute tr
 
 ## 5. The Mourning Athena Relief
 
-![Athena]({{ site.baseurl }}/assets/images/mourning.jpg){: style="width:70%; display:block; margin-left:auto; margin-right:auto;"}
+![Athena]({{ site.baseurl }}/assets/images/mourning.png){: style="width:70%; display:block; margin-left:auto; margin-right:auto;"}
 
 **Historical Background**: The Mourning Athena is a relief sculpture dating from the late 5th century BC. It shows Athena, the goddess of wisdom and war, standing before a stele (grave marker) with her head slightly bowed. This piece is thought to symbolize mourning for the dead, possibly those who fell in battle.
 
