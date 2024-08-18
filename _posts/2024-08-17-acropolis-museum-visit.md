@@ -83,6 +83,15 @@ If you’re pressed for time, there’s also a great option to combine your visi
 
 Finally, there is the option of the [**private guided tour**](https://www.getyourguide.com/acropolis-of-athens-l3763/athens-acropolis-and-acropolis-museum-private-guided-tour-t227956/?partner_id=CTQVJ4W&utm_medium=online_publisher&cmp=private_tour) that combines the visit to the Acropolis and the visit to the Acropolis Museum in just three hours. Unlike larger group tours, a private guide ensures that your questions are answered and the pace is tailored to your interests. Previous guests have raved about how much more they learned with a private guide, discovering hidden details and stories from mythology, archeology and history.
 
+## Guided Tours of the Acropolis Museum
+
+For those who appreciate the depth and insight that only a knowledgeable guide can provide, these tours offer a rich, narrative-driven exploration of the Acropolis Museum. Perfect for history enthusiasts, these options ensure that you don’t just see the artifacts, but truly understand the stories they tell.
+
+| **Tour Name** | **Description** | **Duration** | **Includes** | **Link** |
+|---------------|-----------------|--------------|--------------|----------|
+| **In-Depth Museum Exploration** | Dive deep into the Acropolis Museum's collection with a guide specializing in ancient Greek history. Ideal for those focused exclusively on the museum. | 1.5-2 hours | Expert guide, Skip-the-line ticket | [Book the Tour](https://www.getyourguide.com/acropolis-museum-tour) |
+| **Comprehensive Historical Journey** | A 4-hour tour that includes the Acropolis, Parthenon, and Acropolis Museum. Perfect for understanding the connection between the ruins and the museum’s exhibits. | 4 hours | Expert guide, Skip-the-line tickets, Walking tour | [Book the Tour](https://gyg.me/jKMPj7Be) |
+| **Private and Personalized** | Explore the museum at your own pace with a private guide who tailors the tour to your interests. Ideal for those wanting a personalized experience. | 3 hours | Private guide, Skip-the-line tickets, Flexible itinerary | [Book the Tour](https://www.getyourguide.com/acropolis-private-tour) |
 
 <span style="font-size: 0.8em;">*Header Photo by [Phanatic](https://www.flickr.com/photos/phanatic/45164708112) on [Flickr](https://www.flickr.com) (licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*</span>
 <span style="font-size: 0.8em;">*Ancient City Photo by [Tomisti](https://commons.wikimedia.org/w/index.php?curid=16226564) (licensed under  CC BY-SA 3.0).*</span>
