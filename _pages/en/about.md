@@ -7,12 +7,9 @@ image: assets/images/screenshot.jpg
 imageshadow: true
 ---
 
-Certainly! Here’s the "About Us" page content in markdown:
-
-```markdown
 # About Us
 
-Welcome to **[Blog Name]**, where the ancient streets of Athens come alive with stories waiting to be told.
+Welcome to **Connecting the Dots**, where the ancient streets of Athens come alive with stories waiting to be told.
 
 We are a group of history buffs, archaeologists, and passionate travelers who share a deep love for Athens and its rich heritage. Whether it’s wandering through the ruins of the ancient Agora or marveling at the treasures in the Acropolis Museum, we believe that every corner of this city has a story to tell.
 
@@ -37,7 +34,3 @@ For us, history is not just about dates and events; it’s about connections. It
 ## Join Us on the Journey
 
 We invite you to join us on this journey through time. Whether you’re planning your first trip to Athens or you’re a seasoned traveler looking for something new, we’re here to guide you. Feel free to reach out, share your stories, or simply follow along as we explore the secrets of this ancient city.
-```
-
-You can paste this markdown into your "About Us" page, and it should render nicely with your Jekyll setup.
-
