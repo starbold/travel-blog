@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Writers and Researchers of History Travel 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: 
 imageshadow: true
 ---
 
