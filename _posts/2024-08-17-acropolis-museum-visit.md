@@ -94,3 +94,35 @@ Below are some of the best Combi tours I’ve come across. They offer a well-rou
 <span style="font-size: 0.8em;">*Header Photo by [Phanatic](https://www.flickr.com/photos/phanatic/45164708112) on [Flickr](https://www.flickr.com) (licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*</span>
 <span style="font-size: 0.8em;">*Ancient City Photo by [Tomisti](https://commons.wikimedia.org/w/index.php?curid=16226564) (licensed under  CC BY-SA 3.0).*</span>
 
+
+## Frequently Asked Questions about the Acropolis Museum
+
+### Is there a dress code for the Acropolis Museum?
+While there's no strict dress code, I’d recommend dressing comfortably and modestly out of respect for the cultural setting. Athens can be quite hot, so light, breathable clothing is a good choice.
+
+### Does the Acropolis ticket include the Parthenon?
+Yes, the Acropolis ticket includes access to the Parthenon and other key sites on the Acropolis hill. However, it doesn’t cover the Acropolis Museum, which requires a separate ticket.
+
+### Can you bring backpacks into the Acropolis Museum?
+Yes, but large bags need to be checked at the cloakroom. I usually bring a small bag with essentials and check in the rest to keep my visit comfortable.
+
+### What’s the best day to visit the Acropolis Museum?
+Weekdays, especially in the morning, are less crowded. If you can, avoid weekends and holidays when the museum is busier.
+
+### How many hours do you need at the Acropolis Museum?
+For a full experience, 2 to 3 hours should be enough to explore the main exhibits and enjoy the museum’s restaurant.
+
+### What’s special about the Acropolis Museum?
+What sets it apart is its focus on connecting the exhibits to their original context. The museum's design offers stunning views of the Acropolis, allowing you to see the artifacts almost as they were originally intended.
+
+### Can you see the Acropolis for free?
+You can enjoy great views of the Acropolis from various spots around the city, but access to the site itself requires a ticket. Walking around the Plaka area provides some beautiful glimpses without the cost.
+
+### Should I go to the Acropolis or the Acropolis Museum first?
+If you’re an early riser, I recommend starting with the Acropolis to avoid the crowds and then heading to the museum. This way, you can see the artifacts in context after having explored the site.
+
+### Can you drink tap water in Athens?
+Yes, the tap water in Athens is safe to drink. I always carry a refillable water bottle with me, especially during the hot summer months.
+
+### What’s the most famous piece in the Acropolis Museum?
+The Parthenon Marbles are the most famous, but don’t miss the Caryatids on the first floor—these statues are iconic symbols of ancient Greek art.
