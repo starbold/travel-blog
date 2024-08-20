@@ -125,4 +125,4 @@ If you’re an early riser, I recommend starting with the Acropolis to avoid the
 Yes, the tap water in Athens is safe to drink. I always carry a refillable water bottle with me, especially during the hot summer months.
 
 ### What’s the most famous piece in the Acropolis Museum?
-The Parthenon Marbles are the most famous, but don’t miss the Caryatids on the first floor—these statues are iconic symbols of ancient Greek art.
+Don't miss our article on the [5 Must-See Artifacts at the Acropolis Museum for History Buffs](https://starbold.github.io/travel-blog/acropolis-museum-mustsee/).
