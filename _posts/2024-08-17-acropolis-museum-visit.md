@@ -121,8 +121,5 @@ You can enjoy great views of the Acropolis from various spots around the city, b
 ### Should I go to the Acropolis or the Acropolis Museum first?
 If you’re an early riser, I recommend starting with the Acropolis to avoid the crowds and then heading to the museum. This way, you can see the artifacts in context after having explored the site.
 
-### Can you drink tap water in Athens?
-Yes, the tap water in Athens is safe to drink. I always carry a refillable water bottle with me, especially during the hot summer months.
-
 ### What’s the most famous piece in the Acropolis Museum?
 Don't miss our article on the [5 Must-See Artifacts at the Acropolis Museum for History Buffs](https://starbold.github.io/travel-blog/acropolis-museum-mustsee/).
