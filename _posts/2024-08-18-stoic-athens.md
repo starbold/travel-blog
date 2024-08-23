@@ -33,3 +33,30 @@ Today, visitors can see the foundations of a palaestra (wrestling school) and ot
 ## Connecting the Dots: The Stoic Legacy in Modern Athens
 
 Visiting these ancient sites isn’t just about ticking off boxes on a tourist itinerary. It’s about connecting with a philosophical tradition that has endured for millennia. The Stoics believed in the power of reason, the importance of virtue, and the acceptance of things beyond our control—principles that are as relevant today as they were 2,000 years ago. By walking the same paths as Zeno and Chrysippus, you’re not just learning about history; you’re participating in it.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="stoa" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="771000,256922"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="stoa" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="603169,251622"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
+
+### FAQ: Stoicism in Modern Athens
+
+#### What is the Stoic school in Athens?
+The Stoic school in Athens, known as the Stoa Poikile (Painted Porch), was where Zeno of Citium, the founder of Stoicism, taught his philosophy. It was located in the Ancient Agora of Athens and was a hub for philosophical discussion and teaching. Today, while the original Stoa Poikile no longer stands, the site remains a significant point of interest for those exploring the roots of Stoic philosophy.
+
+#### Is Stoicism relevant in modern society?
+Absolutely. Stoicism has seen a resurgence in recent years, particularly among those seeking practical guidance for dealing with life's challenges. Its principles of resilience, rationality, and emotional control resonate with modern audiences, making it as relevant today as it was in ancient times.
+
+#### What are the four virtues of Stoicism in Greek?
+The four cardinal virtues of Stoicism are wisdom (σοφία, sophia), courage (ἀνδρεία, andreia), justice (δικαιοσύνη, dikaiosyne), and temperance (σωφροσύνη, sophrosyne). These virtues are considered essential for leading a good and fulfilling life.
+
+#### Who are the big 3 Stoic philosophers?
+The three most prominent Stoic philosophers are Zeno of Citium, who founded Stoicism; Seneca the Younger, a Roman philosopher and statesman; and Marcus Aurelius, a Roman Emperor whose writings, known as the "Meditations," are considered a key Stoic text.
+
+#### Why did Stoicism gain popularity again?
+Stoicism has gained popularity in recent years due to its practical and accessible approach to dealing with everyday challenges. Its emphasis on inner peace, resilience, and rational thinking makes it appealing in today’s fast-paced and often stressful world. The teachings of Stoicism provide timeless advice on how to live a meaningful and contented life, which has resonated with modern audiences, particularly through the work of contemporary authors and influencers who advocate for Stoic principles.
+
+#### What is the difference between traditional Stoicism and modern Stoicism?
+Traditional Stoicism, as taught in ancient Athens, emphasized living in accordance with nature, rationality, and virtue as the path to a good life. Modern Stoicism adapts these principles to contemporary life, often focusing on psychological resilience, personal development, and mindfulness. While the core ideas remain the same, modern Stoicism is often more flexible and accessible to a broader audience.
+
+#### How to be Stoic in modern times?
+Being Stoic in modern times involves practicing self-control, focusing on what you can control, and maintaining a rational perspective in the face of adversity. This can be achieved through regular reflection, mindfulness, and the application of Stoic exercises, such as negative visualization and journaling.
