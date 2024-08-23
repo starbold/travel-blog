@@ -34,9 +34,40 @@ Today, visitors can see the foundations of a palaestra (wrestling school) and ot
 
 Visiting these ancient sites isn’t just about ticking off boxes on a tourist itinerary. It’s about connecting with a philosophical tradition that has endured for millennia. The Stoics believed in the power of reason, the importance of virtue, and the acceptance of things beyond our control—principles that are as relevant today as they were 2,000 years ago. By walking the same paths as Zeno and Chrysippus, you’re not just learning about history; you’re participating in it.
 
+## Exploring Stoic Athens: Self-Guided and Guided Tours
+
+### Self-Guided Tours
+
+If you prefer exploring at your own pace, two self-guided tours at the Ancient Agora are perfect for immersing yourself in the world of Stoic philosophy.
+
+1. **The Stoa Poikile (Painted Stoa)**
+   - **Location:** Ancient Agora of Athens
+   - **Highlights:** This site, once adorned with famous paintings, was where Zeno of Citium taught, giving birth to the Stoic philosophy. Walking through the remains of the Stoa Poikile, you can almost hear the echoes of philosophical debates that once took place here.
+   - **What to Bring:** A guidebook or a reliable audio guide will enhance your understanding of the site's significance.
+
+2. **The Stoa of Attalos**
+   - **Location:** Ancient Agora of Athens
+   - **Highlights:** Reconstructed to its former glory, this stoa houses the Museum of the Ancient Agora. It offers a glimpse into the daily life of ancient Athenians and the marketplace where Stoic ideas were discussed and disseminated.
+   - **What to Bring:** A notebook to jot down your reflections or any thoughts inspired by the artifacts and exhibits.
+
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="stoa" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="771000,256922"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
 
+### Guided Tours
+
+For a more in-depth experience, consider joining one of these guided tours that will lead you through Athens' rich philosophical heritage, including its Stoic roots.
+
+1. **The Path to Democracy: Acropolis & Agora Tour**
+   - **Duration:** 3 hours
+   - **Overview:** This tour explores the birth of democracy, closely linked to the philosophical movements that flourished in Athens, including Stoicism. You'll visit the Acropolis and the Ancient Agora, with stops at significant sites like the Temple of Hephaestus, where you can contemplate the relationship between Stoic ideals and the democratic principles that shaped Athens.
+   - **Book Now:** [The Path to Democracy Tour](https://www.getyourguide.com/athens-l91/athens-acropolis-tour-t603169/) 
+
+2. **Athens Highlights: Myths & Philosophers Private Walking Tour**
+   - **Duration:** 4 hours
+   - **Overview:** This private tour takes you on a journey through Athens' intellectual past, focusing on both mythology and philosophy. You'll walk the same paths as Socrates, Plato, and Zeno, gaining insights into the philosophical discussions that still influence modern thought.
+   - **Book Now:** [Athens Highlights Tour](https://www.getyourguide.com/athens-l91/philosophical-athens-tour-t251622/)
+
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="stoa" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="603169,251622"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
+
 
 ### FAQ: Stoicism in Modern Athens
 
