@@ -27,6 +27,8 @@ A particularly fascinating feature of the Roman Agora is the system for measurin
 
 ### The Tower of the Winds: An Ancient Meteorological Marvel
 
+![windtower]({{ site.baseurl }}/assets/images/windtower.jpg){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
+
 Just beyond the eastern propylon of the agora stands the **Tower of the Winds**, an octagonal marvel that has captivated visitors for centuries. Built by the astronomer Andronikos of Kyrrhos in the mid-1st century B.C., this structure is not only beautiful but also highly functional. It served as the world’s first meteorological station, complete with sundials, a hydraulic clock, and a weather vane that indicated the direction of the wind.
 
 Whenever I visit the Tower of the Winds, I’m struck by the ingenuity of ancient engineers. To think that merchants relied on this tower to anticipate the arrival of goods from the port of Piraeus is a reminder of how intertwined science and daily life were in ancient times.
@@ -49,3 +51,5 @@ If you find yourself in Athens, make time to visit the Roman Agora. It’s easy 
 Whether you’re a history buff, an archaeologist, or just someone with a curiosity for the past, the Roman Agora is a site that deserves your attention. Take your time, walk slowly, and let the history of this remarkable place sink in. You won’t regret it.
 
 <span style="font-size: 0.8em;">*Header Photo by [andyhay](https://www.flickr.com/photos/andyhay/29017490936) on [Flickr](https://www.flickr.com) (licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*</span>
+
+<span style="font-size: 0.8em;">*Photo by [Avokado](https://commons.wikimedia.org/wiki/User:Avokado) on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ancient_Roman_Agora_of_Athens,_April_2022_-_09.jpg) (licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).*</span>
