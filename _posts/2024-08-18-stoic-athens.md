@@ -59,13 +59,11 @@ For a more in-depth experience, consider joining one of these guided tours that 
 1. **The Path to Democracy: Acropolis & Agora Tour**
    - **Duration:** 3 hours
    - **Overview:** This tour explores the birth of democracy, closely linked to the philosophical movements that flourished in Athens, including Stoicism. You'll visit the Acropolis and the Ancient Agora, with stops at significant sites like the Temple of Hephaestus, where you can contemplate the relationship between Stoic ideals and the democratic principles that shaped Athens.
-   - **Book Now:** [The Path to Democracy Tour](https://www.getyourguide.com/athens-l91/athens-acropolis-tour-t603169/) 
-
+  
 2. **Athens Highlights: Myths & Philosophers Private Walking Tour**
    - **Duration:** 4 hours
    - **Overview:** This private tour takes you on a journey through Athens' intellectual past, focusing on both mythology and philosophy. You'll walk the same paths as Socrates, Plato, and Zeno, gaining insights into the philosophical discussions that still influence modern thought.
-   - **Book Now:** [Athens Highlights Tour](https://www.getyourguide.com/athens-l91/philosophical-athens-tour-t251622/)
-
+   
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="stoa" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="603169,251622"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
 
 
