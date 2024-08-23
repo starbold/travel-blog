@@ -52,4 +52,4 @@ Whether you’re a history buff, an archaeologist, or just someone with a curios
 
 <span style="font-size: 0.8em;">*Header Photo by [andyhay](https://www.flickr.com/photos/andyhay/29017490936) on [Flickr](https://www.flickr.com) (licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*</span>
 
-<span style="font-size: 0.8em;">*Photo by [Avokado](https://commons.wikimedia.org/wiki/User:Avokado) on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ancient_Roman_Agora_of_Athens,_April_2022_-_09.jpg) (licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).*</span>
+<span style="font-size: 0.8em;">*Wind Tower Photo by [TimeTravelRome] on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ancient_Roman_Agora_of_Athens,_April_2022_-_09.jpg) (licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*</span>
