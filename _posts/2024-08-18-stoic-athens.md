@@ -66,6 +66,16 @@ For a more in-depth experience, consider joining one of these guided tours that 
    
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="stoa" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="603169,251622"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
 
+### The Ultimate Tour: Acropolis and 6 Archaeological Sites Combo Ticket
+
+This combo ticket is your key to unlocking the philosophical landscape of Athens. With access to seven of the city’s most significant archaeological sites, including the Ancient Agora where Stoicism was born, you can explore the context in which Stoic ideas were developed and debated. The ticket’s flexibility allows you to visit these historic sites over five days, giving you the time to reflect on their significance as you move from one to the next.
+
+**What’s Included:**
+- **Acropolis:** Begin at the Acropolis, the heart of ancient Athens, and consider how the values of endurance and reason were reflected in the city’s most iconic structures.
+- **Ancient Agora:** Walk through the Stoa Poikile, where Zeno taught, and let the philosophical origins of Stoicism resonate as you explore.
+- **Roman Agora and Beyond:** Continue your journey through sites like the Roman Agora and the Temple of Olympian Zeus, each offering a unique glimpse into the world that shaped Stoic thought.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="1" data-gyg-cmp="stoa" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="400152"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
 
 ### FAQ: Stoicism in Modern Athens
 
