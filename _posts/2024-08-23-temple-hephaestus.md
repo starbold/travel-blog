@@ -25,7 +25,7 @@ But the temple's beauty is not just in its form; it’s in the stories it tells 
 
 ## Sculptural Decorations
 
-![windtower]({{ site.baseurl }}/assets/images/hephaestus_closeup.jpg){: style="width:60%; display:block; margin-left:auto; margin-right:auto;"}
+![windtower]({{ site.baseurl }}/assets/images/hephaestus_closeup.jpg){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
 
 
 As you stand before the eastern front of the temple, you’ll be greeted by scenes of Hercules' labors and Theseus’ battle with the Pallantides—heroes whose tales were deeply woven into the fabric of Athenian identity. The western side of the temple offers a dramatic depiction of the fall of Troy, a story of war, cunning, and the consequences of divine wrath.
@@ -46,21 +46,21 @@ The dedication of the temple to Hephaestus and Athena Ergani is no coincidence. 
 
 The placement of the temple in the Agora—Athens' bustling center of public life—speaks volumes about its importance. Here, surrounded by stoas, law courts, and marketplaces, the temple served not just as a place of worship, but as a constant reminder of the city's divine favor and cultural superiority. The Agora was the beating heart of Athens, where citizens gathered to discuss politics, philosophy, and commerce. In this context, the Temple of Hephaestus was both a spiritual and a civic symbol, a place where the divine and the mortal worlds intersected.
 
-### Architectural Resonance Across Time
+#### Architectural Resonance Across Time
 
 The architectural style of the Temple of Hephaestus is deeply rooted in the broader trends of classical Greek architecture, yet it also stands out for its unique features and preservation. Its Doric columns and balanced proportions echo the Parthenon, Athens’ most famous temple, creating a visual and thematic link between these two great structures. However, unlike the Parthenon, which has suffered significant damage over the millennia, the Temple of Hephaestus remains remarkably intact. This preservation allows us to see the temple as it would have appeared to ancient Athenians, providing a direct, almost tangible connection to the past.
 
-### Myths Woven into Stone
+#### Myths Woven into Stone
 
 The sculptural decorations of the Temple of Hephaestus are more than mere embellishments—they are stories carved in stone, each one reflecting the values and beliefs of the Athenian people. The labors of Hercules and Theseus’ exploits are not just tales of heroism; they are allegories of the struggles and triumphs that Athens itself faced. These myths served to reinforce the city's identity, reminding its citizens of their shared heritage and the divine favor that they believed had been bestowed upon them.
 
 The depiction of Theseus, in particular, resonates deeply with the Athenian psyche. As the city’s legendary founder, Theseus was seen as the ideal king, a unifier who brought the city-states of Attica under Athenian control. His presence in the temple’s iconography is a nod to Athens' role as a leader among the Greek city-states, a status that was both celebrated and contested throughout the city’s history.
 
-### A Continuum of Sacred Space
+#### A Continuum of Sacred Space
 
 When the temple was restored to its ancient form in the 20th century, it was not just an act of preservation; it was a reclamation of the city's classical heritage, a way of reasserting Athens' identity as the cradle of Western civilization. Today, the Temple of Hephaestus stands as a bridge between the ancient and modern worlds, a place where visitors can connect with the past in a direct and meaningful way.
 
-### Advice for the Modern Traveler
+## Advice for the Modern Traveler
 
 To fully appreciate the temple's significance, I recommend visiting it in conjunction with a tour of the Ancient Agora. This will allow you to see how the temple fits into the wider layout of the city and how it interacted with other important structures. For those interested in architecture, a close examination of the temple's Doric elements compared to the more ornate Ionic and Corinthian styles found elsewhere in Athens can be particularly rewarding.
 
