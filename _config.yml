@@ -16,21 +16,30 @@ email: ikrontiris@gmail.com
 # Authors
 authors:
   sal:
-    name: Alexandros
-    display_name: Alexandros
+    name: Dimitris
+    display_name: Katsaros
     avatar: 'assets/images/avatar-sal.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/donate/
     twitter: https://twitter.com/wowthemesnet
-    description: "Alexandros Kostas is a historian with a deep passion for ancient Greece, having studied history at the University of Athens. After spending years in the academic world, he decided to take his love for history outside the classroom, leading specialized tours of archaeological sites across Athens. Alexandros is also known for his unique hobby of collecting and restoring ancient Greek pottery fragments, which he occasionally showcases in his blog."
+    description: "Dimitrios holds a PhD in Ancient History from the University of Thessaloniki. His research focuses on the daily lives of ancient Greeks, from their markets to their temples. Dimitrios loves exploring the lesser-known archaeological sites of Athens and revealing the stories they tell. He believes that every stone has a story waiting to be told."
   john:
-    name: John
-    display_name: John    
+    name: Eleni
+    display_name: Georgiou    
     avatar: 'assets/images/avatar.png'
     email: ikrontiris@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    description: "A seasoned historian and archaeologist, Eleni specializes in the study of ancient Greek art and architecture. She has contributed to numerous publications and documentaries on the subject. Eleni’s work is driven by a desire to connect the past with the present, making history accessible and engaging for all."
+  john:
+    name: Nikos
+    display_name: Vassiliou    
+    avatar: 'assets/images/avatar.png'
+    email: ikrontiris@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "Nikos is an archaeologist with a focus on ancient Greek religion and mythology. He has led several tours around the historical sites of Athens, sharing his deep knowledge with travelers from around the globe. When not guiding tours, Nikos dedicates his time to researching and writing about the gods and goddesses that shaped ancient Greek culture."
+
 
 # Plugins
 plugins:
