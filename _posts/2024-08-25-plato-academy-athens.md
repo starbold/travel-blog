@@ -9,7 +9,7 @@ image: "/assets/images/plato-head-athens.jpg"
 
 ## Walking Through Plato’s Academy: Philosophy and Ruins
 
-Nestled in a quiet park in modern Athens, the ruins of Plato’s Academy offer a gateway into the rich intellectual and cultural history of ancient Greece. Far from the grandeur of the Acropolis, this site stands as a testament to the power of ideas and the enduring legacy of a school that shaped the course of Western thought. Yet, to truly appreciate its significance, one must delve into the historical layers that have defined this space over millennia.
+Nestled in a quiet park in modern Athens, the ruins of Plato’s Academy offer a gateway into the history of philosophy of ancient Greece. Far from the grandeur of the Acropolis, this site stands as a testament to the power of ideas and the enduring legacy of a school that shaped the course of Western thought. To truly appreciate its significance, one must delve into the historical layers that have defined this space over millennia.
 
 ### The Academy in Its Prime
 
