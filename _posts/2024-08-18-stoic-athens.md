@@ -3,17 +3,17 @@ layout: post
 title:  "Discovering the Secrets of Stoicism in Modern Athens"
 author: sal
 categories: [History, Philosophy, Athens Guides]
-tags: [Stoicism, Ancient Greece, Philosophy, Athens, Historical Sites, Hidden Gems, Archaeology]
+tags: [Stoicism, Stoic Philosophy, Stoa Poikile, Zeno of Citium, Stoa of Attalos, Athenian Agora, Ancient Greece, Philosophy, Athens, Historical Sites, Hidden Gems, Archaeology, Guided Tours, Private Walking Tour, Agora Tour]
 image: "/assets/images/athens-stoa.jpg"
 ---
 
 ## Stoa Poikile (Painted Porch)
 
-The most significant Stoic site in Athens is the **Stoa Poikile**, located in the ancient Agora. This was the public portico where **Zeno of Citium**, the founder of Stoicism, taught his philosophy in the early 3rd century BC[1][4][5]. The stoa was originally called the Porch of Peisianax and was known for its impressive paintings adorning the walls[5].
+The **Stoa Poikile**, one of Athens' most renowned structures, earned its name from the exquisite panel paintings that once adorned its walls. These masterpieces, created by some of the finest artists of Classical Greece, were installed around the mid-5th century B.C. Even 600 years later, around A.D. 150, the traveler **Pausanias** could still describe four of these paintings, which celebrated Athenian military victories, both mythological and historical. The most famous among these was likely the depiction of the **Battle of Marathon** (490 B.C.) by **Polygnotos**. However, by A.D. 400, these artworks had vanished, reportedly removed by a Roman proconsul. In addition to the artwork, the Stoa once displayed actual weapons and armor from defeated enemies, serving as a stark reminder to Athenians of their former glory.
 
-Picture this: Zeno of Citium, the founder of Stoicism, pacing up and down this very porch, delivering his teachings against a backdrop of stunning murals that depicted legendary battles, like the Battle of Marathon and the Trojan War. These paintings weren’t just decorative; they were integral to the Stoic teaching, offering visual metaphors for the inner battles one must overcome to achieve virtue.
+Unlike many other structures in the Agora, the Stoa Poikile was a truly public building, used informally by a mixed throng of people, not dominated by any particular official, group, or function. Among those who came regularly were the philosophers, who could expect to find an audience ready to listen to them. Among these thinkers, **Zeno of Citium** stands out as the founder of the Stoic school of philosophy. Around 300 B.C., Zeno arrived in Athens from Cyprus and chose the Painted Stoa as his preferred location for teaching, so much so that his followers took their name from this very spot. 
 
-Today, only the foundations and a few scattered architectural fragments remain of the original stoa[4]. However, the site still holds great significance for Stoic pilgrims. The stoa's location in the bustling Agora marketplace reflects the Stoic belief in teaching philosophy publicly, in contrast to other schools located in private gymnasia[5].
+Today, only the foundations and a few scattered architectural fragments remain of the original stoa. However, the site still holds great significance for Stoic pilgrims. The stoa's location in the bustling Agora marketplace reflects the Stoic belief in teaching philosophy publicly, in contrast to other schools located in private gymnasia.
 
 ### How did the Stoa Poikile looked like? 
 
