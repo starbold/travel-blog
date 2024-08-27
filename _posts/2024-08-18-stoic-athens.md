@@ -39,7 +39,7 @@ The story of the Stoa Poikile, from its architectural brilliance to its role as 
 
 ## Ancient Agora
 
-The **Ancient Agora of Athens**, where the Stoa Poikile stood, is an important archaeological site for understanding the context of early Stoicism. It was the commercial, social, and political center of ancient Athens[2]. Philosophers like **Socrates** would engage in discussions with craftsmen and citizens in the Agora, influencing the public nature of Stoic teaching[5].
+The **Ancient Agora of Athens**, where the Stoa Poikile stood, is an important archaeological site for understanding the context of early Stoicism. It was the commercial, social, and political center of ancient Athens. Philosophers like **Socrates** would engage in discussions with craftsmen and citizens in the Agora, influencing the public nature of Stoic teaching.
 
 While the Agora is in ruins today, visitors can still explore the foundations of shops, wells, and other structures that would have surrounded the Stoa Poikile in Zeno's time[5]. The site provides a glimpse into the vibrant setting where Stoicism first took root.
 
@@ -48,9 +48,9 @@ For example, one can visit the reconstructed Stoa of Attalos, which gives a sens
 
 ## Lyceum
 
-Another relevant site is the **Lyceum**, located east of the city center. This was the gymnasium where **Aristotle** taught, and later where his student **Theophrastus** established a philosophical school[2]. But long before Aristotle, this site was a gathering place for the Sophists and, later, the Stoics. It was here that philosophers like Chrysippus, the third head of the Stoic school, lectured under the open sky. As I stood amidst the ruins, surrounded by the scent of pomegranate trees and the buzz of cicadas, I could almost hear the echoes of ancient debates.
+Another relevant site is the **Lyceum**, located east of the city center. This was the gymnasium where **Aristotle** taught, and later where his student **Theophrastus** established a philosophical school. But long before Aristotle, this site was a gathering place for the Sophists and, later, the Stoics. It was here that philosophers like Chrysippus, the third head of the Stoic school, lectured under the open sky. As I stood amidst the ruins, surrounded by the scent of pomegranate trees and the buzz of cicadas, I could almost hear the echoes of ancient debates.
 
-Today, visitors can see the foundations of a palaestra (wrestling school) and other remains of the Lyceum complex[2]. The site offers insight into the role of gymnasia as centers of philosophical education in ancient Athens.
+Today, visitors can see the foundations of a palaestra (wrestling school) and other remains of the Lyceum complex. The site offers insight into the role of gymnasia as centers of philosophical education in ancient Athens.
 
 ## Connecting the Dots: The Stoic Legacy in Modern Athens
 
