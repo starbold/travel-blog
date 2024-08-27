@@ -41,7 +41,7 @@ The story of the Stoa Poikile, from its architectural brilliance to its role as 
 
 The **Ancient Agora of Athens**, where the Stoa Poikile stood, is an important archaeological site for understanding the context of early Stoicism. It was the commercial, social, and political center of ancient Athens. Philosophers like **Socrates** would engage in discussions with craftsmen and citizens in the Agora, influencing the public nature of Stoic teaching.
 
-While the Agora is in ruins today, visitors can still explore the foundations of shops, wells, and other structures that would have surrounded the Stoa Poikile in Zeno's time[5]. The site provides a glimpse into the vibrant setting where Stoicism first took root.
+While the Agora is in ruins today, visitors can still explore the foundations of shops, wells, and other structures that would have surrounded the Stoa Poikile in Zeno's time. The site provides a glimpse into the vibrant setting where Stoicism first took root.
 
 For example, one can visit the reconstructed Stoa of Attalos, which gives a sense of what the Stoa Poikile might have looked like in its prime. Although less famous than the Acropolis, the Agora is where the real intellectual action happened. It’s a must-visit for anyone wanting to understand the social and philosophical fabric of ancient Athens.
 
