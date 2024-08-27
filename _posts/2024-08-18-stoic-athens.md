@@ -19,7 +19,7 @@ Today, only the foundations and a few scattered architectural fragments remain o
 
 The **Stoa Poikile**, one of the major classical structures in the Athenian Agora, stands as a testament to the architectural prowess of ancient Athens. The excavation of this site has revealed a building of considerable size and prominence, evidenced by its massive foundations and high-quality construction. The stoa's orientation, with its long axis running northeast to southwest, placed its principal façade facing southward onto the Agora, a strategic positioning that underscored its significance.
 
-![Reconstructed drawing of the west end of the Stoa Poikile as it would have appeared in about 400 B.C.]({{ site.baseurl }}/assets/images/stoa-poikile.jpeg){: style="width:70%; display:block; margin-left:auto; margin-right:auto;"}
+![Reconstructed drawing of the west end of the Stoa Poikile as it would have appeared in about 400 B.C.]({{ site.baseurl }}/assets/images/stoa-poikile.jpeg){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
 
 Architecturally, the Stoa Poikile featured a combination of **Doric** and **Ionic** orders, with a meticulous use of **poros stone** in its construction. The foundations display precise architectural details, such as well-worn steps and carefully placed blocks with tight joints, indicating the building’s importance in the classical period. These details suggest that the stoa was not just a functional structure but also a symbol of Athenian craftsmanship and cultural pride.
 
