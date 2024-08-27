@@ -15,6 +15,28 @@ Picture this: Zeno of Citium, the founder of Stoicism, pacing up and down this v
 
 Today, only the foundations and a few scattered architectural fragments remain of the original stoa[4]. However, the site still holds great significance for Stoic pilgrims. The stoa's location in the bustling Agora marketplace reflects the Stoic belief in teaching philosophy publicly, in contrast to other schools located in private gymnasia[5].
 
+### How did the Stoa Poikile looked like? 
+
+The **Stoa Poikile**, one of the major classical structures in the Athenian Agora, stands as a testament to the architectural prowess of ancient Athens. The excavation of this site has revealed a building of considerable size and prominence, evidenced by its massive foundations and high-quality construction. The stoa's orientation, with its long axis running northeast to southwest, placed its principal façade facing southward onto the Agora, a strategic positioning that underscored its significance.
+
+![windtower]({{ site.baseurl }}/assets/images/stoa-poikile.jpg){: style="width:70%; display:block; margin-left:auto; margin-right:auto;"}
+
+Architecturally, the Stoa Poikile featured a combination of **Doric** and **Ionic** orders, with a meticulous use of **poros stone** in its construction. The foundations display precise architectural details, such as well-worn steps and carefully placed blocks with tight joints, indicating the building’s importance in the classical period. These details suggest that the stoa was not just a functional structure but also a symbol of Athenian craftsmanship and cultural pride.
+
+#### Historical Significance
+
+Beyond its architectural grandeur, the Stoa Poikile was a cultural and philosophical landmark in Athens. It is famously known as the site where **Zeno of Citium** founded the **Stoic school of philosophy**. The stoa's walls were adorned with renowned paintings depicting historical and mythological scenes, including the **Battle of Marathon**. These artistic representations were not merely decorative; they served as visual embodiments of Athenian valor and played a significant role in shaping the collective memory and identity of the city.
+
+The construction of the Stoa Poikile is dated to the **second quarter of the 5th century BCE**, supported by both archaeological evidence and historical records. Pottery fragments discovered beneath the stoa’s foundations suggest that the building was erected between **470-460 BCE**. The stoa remained a prominent feature of the Agora for centuries, continuing to be utilized until at least the **5th century CE**, when a late Roman colonnade was added to its western side.
+
+#### Late Roman Adaptations and the Stoa's End
+
+During the late Roman period, the Stoa Poikile witnessed significant changes. A new street colonnade was constructed to the west of the stoa, indicating the building's continued importance in the Agora. The foundations of this colonnade were aligned with the corner anta of the stoa, suggesting that the structure was still standing and in use during this time. The integration of the colonnade with the stoa’s existing foundations, along with the presence of late Roman pottery, highlights the adaptive reuse of this iconic building as the city evolved.
+
+However, the glory of the Stoa Poikile was not to last forever. In the **6th century CE**, the building was systematically demolished, likely due to the broader decline of the Agora and Athens itself. The stoa was extensively quarried for stone, with its blocks removed down to the **euthynteria** (the topmost course of the building's foundation). Interestingly, parts of the western steps were protected by the late Roman colonnade, preserving a fragment of the stoa's legacy even as the rest of the structure was lost to time.
+
+The story of the Stoa Poikile, from its architectural brilliance to its role as a philosophical hub and its eventual decline, offers a profound insight into the cultural and historical evolution of Athens. It stands as a reminder of the city’s rich past and the layers of history that continue to be uncovered through ongoing archaeological research.
+
 ## Ancient Agora
 
 The **Ancient Agora of Athens**, where the Stoa Poikile stood, is an important archaeological site for understanding the context of early Stoicism. It was the commercial, social, and political center of ancient Athens[2]. Philosophers like **Socrates** would engage in discussions with craftsmen and citizens in the Agora, influencing the public nature of Stoic teaching[5].
