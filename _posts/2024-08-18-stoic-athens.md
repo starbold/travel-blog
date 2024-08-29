@@ -9,9 +9,9 @@ image: "/assets/images/athens-stoa.jpg"
 
 ## Stoa Poikile (Painted Porch)
 
-The **Stoa Poikile**, one of Athens' most renowned structures, earned its name from the exquisite panel paintings that once adorned its walls. These masterpieces, created by some of the finest artists of Classical Greece, were installed around the mid-5th century B.C. Even 600 years later, around A.D. 150, the traveler **Pausanias** could still describe four of these paintings, which celebrated Athenian military victories, both mythological and historical. The most famous among these was likely the depiction of the **Battle of Marathon** (490 B.C.) by **Polygnotos**. However, by A.D. 400, these artworks had vanished, reportedly removed by a Roman proconsul. In addition to the artwork, the Stoa once displayed actual weapons and armor from defeated enemies, serving as a stark reminder to Athenians of their former glory.
+The **[Stoa Poikile](https://de.wikipedia.org/wiki/Agora_(Athen)#Stoa_Poikile_(20))**, one of Athens' most renowned structures, earned its name from the exquisite panel paintings that once adorned its walls. These masterpieces, created by some of the finest artists of Classical Greece, were installed around the mid-5th century B.C. Even 600 years later, around A.D. 150, the traveler **Pausanias** could still describe four of these paintings, which celebrated Athenian military victories, both mythological and historical. The most famous among these was likely the depiction of the **Battle of Marathon** (490 B.C.) by **Polygnotos**. However, by A.D. 400, these artworks had vanished, reportedly removed by a Roman proconsul. In addition to the artwork, the Stoa once displayed actual weapons and armor from defeated enemies, serving as a stark reminder to Athenians of their former glory.
 
-Unlike many other structures in the Agora, the Stoa Poikile was a truly public building, used informally by a mixed throng of people, not dominated by any particular official, group, or function. Among those who came regularly were the philosophers, who could expect to find an audience ready to listen to them. Among these thinkers, **Zeno of Citium** stands out as the founder of the Stoic school of philosophy. Around 300 B.C., Zeno arrived in Athens from Cyprus and chose the Painted Stoa as his preferred location for teaching, so much so that his followers took their name from this very spot. 
+Unlike many other structures in the Agora, the Stoa Poikile was a truly public building, used informally by a mixed throng of people, not dominated by any particular official, group, or function. Among those who came regularly were the philosophers, who could expect to find an audience ready to listen to them. Among these thinkers, **[Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium)** stands out as the founder of the Stoic school of philosophy. Around 300 B.C., Zeno arrived in Athens from Cyprus and chose the Painted Stoa as his preferred location for teaching, so much so that his followers took their name from this very spot. 
 
 Today, only the foundations and a few scattered architectural fragments remain of the original stoa. However, the site still holds great significance for Stoic pilgrims. The stoa's location in the bustling Agora marketplace reflects the Stoic belief in teaching philosophy publicly, in contrast to other schools located in private gymnasia.
 
@@ -23,9 +23,9 @@ The **Stoa Poikile**, one of the major classical structures in the Athenian Agor
 
 Architecturally, the Stoa Poikile featured a combination of **Doric** and **Ionic** orders, with a meticulous use of **poros stone** in its construction. The foundations display precise architectural details, such as well-worn steps and carefully placed blocks with tight joints, indicating the building’s importance in the classical period. These details suggest that the stoa was not just a functional structure but also a symbol of Athenian craftsmanship and cultural pride.
 
-#### Historical Significance
+#### Why Stoa Poikile was important?
 
-Beyond its architectural grandeur, the Stoa Poikile was a cultural and philosophical landmark in Athens. It is famously known as the site where **Zeno of Citium** founded the **Stoic school of philosophy**. The stoa's walls were adorned with renowned paintings depicting historical and mythological scenes, including the **Battle of Marathon**. These artistic representations were not merely decorative; they served as visual embodiments of Athenian valor and played a significant role in shaping the collective memory and identity of the city.
+Beyond its architectural grandeur, the Stoa Poikile was a cultural and philosophical landmark in Athens. It is famously known as the site where **[Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium)** founded the **[Stoic school of philosophy](https://en.wikipedia.org/wiki/Stoicism)**. The stoa's walls were adorned with renowned paintings depicting historical and mythological scenes, including the **Battle of Marathon**. These artistic representations were not merely decorative; they served as visual embodiments of Athenian valor and played a significant role in shaping the collective memory and identity of the city.
 
 The construction of the Stoa Poikile is dated to the **second quarter of the 5th century BCE**, supported by both archaeological evidence and historical records. Pottery fragments discovered beneath the stoa’s foundations suggest that the building was erected between **470-460 BCE**. The stoa remained a prominent feature of the Agora for centuries, continuing to be utilized until at least the **5th century CE**, when a late Roman colonnade was added to its western side.
 
@@ -46,11 +46,13 @@ While the Agora is in ruins today, visitors can still explore the foundations of
 For example, one can visit the reconstructed Stoa of Attalos, which gives a sense of what the Stoa Poikile might have looked like in its prime. Although less famous than the Acropolis, the Agora is where the real intellectual action happened. It’s a must-visit for anyone wanting to understand the social and philosophical fabric of ancient Athens.
 
 
-## Lyceum
+## Is More of the Stoa Poikile About to Come to Light?
 
-Another relevant site is the **Lyceum**, located east of the city center. This was the gymnasium where **Aristotle** taught, and later where his student **Theophrastus** established a philosophical school. But long before Aristotle, this site was a gathering place for the Sophists and, later, the Stoics. It was here that philosophers like Chrysippus, the third head of the Stoic school, lectured under the open sky. As I stood amidst the ruins, surrounded by the scent of pomegranate trees and the buzz of cicadas, I could almost hear the echoes of ancient debates.
+Yes! There are new developments. The American School of Classical Studies in Athens continues its excavations of the Stoa Poikile in the Ancient Agora after the recent demolition of a building at 14 Agios Philippou Street, which had previously obstructed the site. 
 
-Today, visitors can see the foundations of a palaestra (wrestling school) and other remains of the Lyceum complex. The site offers insight into the role of gymnasia as centers of philosophical education in ancient Athens.
+The demolition, following a decade-long process of declassification and expropriation, has allowed archaeologists to explore the northeastern part of the Stoa, which has remained uncovered. The ongoing excavations involve the American School in collaboration with the Ephorate of Antiquities of Athens City, and include student volunteers. 
+
+The excavations are part of a broader effort to reveal hidden parts of the Ancient Agora while preserving any Byzantine structures found in the process. The project is expected to transform the local neighborhood, providing new vistas and historical insights.
 
 ## Connecting the Dots: The Stoic Legacy in Modern Athens
 
