@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Exploring the Ancient Agora of Athens: Unveiling the Heart of Ancient Greek Democracy, Philosophy, and Culture"
-author: dimitris
+title:  "Ancient Agora: The Heartbeat of Ancient Athens"
+author: sal
 categories: [History, Archaeology, Athens Guides, Ancient Greece]
 tags: [Ancient Agora, Athens, Greek History, Archaeological Sites, Philosophy, Democracy, Ancient Greek Culture, Athens Travel, Greek Mythology, Socrates, Plato, Stoa Poikile, Temple of Hephaestus, Athenian Democracy, Agora Excavations, Classical Athens, Ancient Architecture, Athenian Agora Museum, Guided Tours Athens, Self-Guided Tours Athens, Historical Athens]
 image: "/assets/images/ancient-agora-athens.jpg"
