@@ -7,7 +7,7 @@ tags: [Temple of Hephaestus, Ancient Greece, Architecture, Athens, Historical Si
 image: "/assets/images/hephaestus.jpg"
 ---
 
-The Temple of Hephaestus is more than just an ancient structure; it's a remarkable testimony to the ingenuity and artistry of classical Greece. As one of the best-preserved temples from antiquity, it stands proudly on Agoraios Kolonos hill, overlooking the Ancient Agora of Athens—a location steeped in history and bustling with the echoes of a bygone era.
+The Temple of Hephaestus is the best-preserved temples from antiquity, it stands proudly on Agoraios Kolonos hill, overlooking the Ancient Agora of Athens—a location steeped in history and bustling with the echoes of a bygone era.
 
 ## Location and History
 
@@ -17,6 +17,8 @@ This site is not just a tourist attraction; it’s a place where the whispers of
 
 ## Architecture and Design
 
+![windtower]({{ site.baseurl }}/assets/images/hephaestus_closeup.jpg){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
+
 The Temple of Hephaestus is a quintessential example of Doric architecture, a style characterized by its simplicity and strength. Crafted from the famous Pentelic marble—whose subtle golden hue shines in the Athenian sun—the temple's sculptures were carved from the equally renowned Parian marble, known for its fine grain and pure white appearance.
 
 With 6 columns gracing its east and west sides, and 13 columns lining its north and south sides, the temple exudes a sense of balanced symmetry. This peripteral structure, surrounded by a single row of columns, invites you to walk around and appreciate its grandeur from every angle. The pronaos, or front porch, leads into the cella, where the statues of Hephaestus and Athena once stood, and the opisthodomos, or back porch, adds to the architectural harmony of this sacred space.
@@ -25,14 +27,30 @@ But the temple's beauty is not just in its form; it’s in the stories it tells 
 
 ## Sculptural Decorations
 
-![windtower]({{ site.baseurl }}/assets/images/hephaestus_closeup.jpg){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
-
-
 As you stand before the eastern front of the temple, you’ll be greeted by scenes of Hercules' labors and Theseus’ battle with the Pallantides—heroes whose tales were deeply woven into the fabric of Athenian identity. The western side of the temple offers a dramatic depiction of the fall of Troy, a story of war, cunning, and the consequences of divine wrath.
 
-The frieze on the pronaos is particularly intriguing, illustrating Theseus’ struggle against those who claimed the throne—a narrative that resonated with the Athenian people, who saw Theseus as the ideal king, embodying wisdom and strength. On the opisthodomos, the battle of the Centaurs is vividly captured, a mythological clash symbolizing the eternal struggle between civilization and barbarism.
+![windtower]({{ site.baseurl }}/assets/images/Centauromachy.jpg){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
 
-## Preservation and Later Uses
+The frieze on the pronaos is particularly intriguing, 
+
+* West Frieze - Battle of the Centaurs and Lapiths: This frieze depicts the famous battle between the Centaurs and Lapiths, which occurred during the wedding feast of Pirithous, king of the Lapiths. The Centaurs, who were guests at the wedding, got drunk and attempted to abduct the bride and other women, leading to a fierce battle. Theseus, the hero of Athens, played a crucial role in defeating the Centaurs, and his presence in this frieze emphasizes his importance in Greek mythology.
+* East Frieze - Possibly Theseus and the Pallantides: The east frieze is believed to depict a scene related to Theseus and the Pallantides. The Pallantides were the sons of Pallas, who challenged Theseus for the throne of Athens. The frieze likely shows Theseus triumphing over them, further highlighting his role as a protector of Athens and a key figure in its mythology.
+
+#### What is the Influence of Mythology on Artistic Representation?
+
+These mythological scenes were carefully chosen to reflect the values and ideals of Athenian society. The depiction of the Centaur-Lapith battle is a classic example of the struggle between order and chaos. This mythological event represents the triumph of civilized society (Lapiths) over barbarism (Centaurs). Such imagery was particularly meaningful to the Athenians, who saw themselves as champions of civilization and order. 
+ 
+The potential portrayal of Theseus on the friezes further reinforces the connection between the temple and Athenian civic ideals. Theseus was not just a mythological hero; he was a symbol of Athenian democracy, justice, and leadership. By depicting Theseus in victorious scenes, the temple’s art underlines the importance of these values to the city’s identity.
+
+The Theseus scenes led to the temple being popularly known as the “Theseion,” a name that was also given to the sourounding modern city’s district and the nearby Metro station. 
+
+#### What is so Special about the Friezes of the Temple?
+
+What’s special about these friezes is how the artist managed to show movement and action in the carved stone. The figures seem to be alive, with carefully chosen poses that add to the drama of the scenes.
+
+These friezes are connected to the style of other famous Athenian sculptures from the same time, like those on the Parthenon. However, they also have some unique features, such as the way the figures are positioned and how they interact with the space around them, hinting at the artistic trends that would come later in Greek history.
+
+## Why was the Temple Preserved so Well?
 
 The Temple of Hephaestus has weathered the centuries remarkably well, largely thanks to its adaptive reuse over time. In the 7th century AD, it was converted into a Christian church dedicated to Saint George Akamas. This transformation not only preserved the structure but also added a new layer of history to its already rich narrative.
 
