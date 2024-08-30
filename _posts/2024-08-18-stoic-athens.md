@@ -60,39 +60,35 @@ Visiting these ancient sites isn’t just about ticking off boxes on a tourist i
 
 ## Exploring Stoic Athens: Self-Guided and Guided Tours
 
-#### Self-Guided Tour with E-Ticket & Audio Guide
-- **Ancient Agora E-Ticket with Optional Audio Tour**
-  - Explore at your own pace.
-  - Includes an audio guide with detailed insights.
-  - Learn about the Agora's role in ancient society, architecture, and daily life.
-  - Ideal for flexible and independent exploration.
+### Self-Guided Tours
 
-#### Guided Tours
-- **Path to Democracy: Acropolis & Agora Tour**
-  - Combines visits to the Acropolis and the Agora.
-  - Focuses on the birth and evolution of democracy.
-  - Includes landmarks like the Temple of Hephaestus.
-  - Great for those interested in political history.
+If you prefer exploring at your own pace, two self-guided tours at the Ancient Agora are perfect for immersing yourself in the world of Stoic philosophy.
 
-- **Athens Highlights: Myths & Philosophers Private Walking Tour**
-  - Blends mythology and philosophy with historic sites.
-  - Covers the Agora and other key sites in Athens.
-  - Offers a broad understanding of Athens' cultural and intellectual heritage.
-  - Perfect for connecting the physical spaces with intellectual history.
+1. **The Stoa Poikile (Painted Stoa)**
+   - **Location:** Ancient Agora of Athens
+   - **Highlights:** This site, once adorned with famous paintings, was where Zeno of Citium taught, giving birth to the Stoic philosophy. Walking through the remains of the Stoa Poikile, you can almost hear the echoes of philosophical debates that once took place here.
+   - **What to Bring:** A guidebook or a reliable audio guide will enhance your understanding of the site's significance.
 
-- **Acropolis, Plaka & Ancient Agora Guided Tour**
-  - A comprehensive tour that covers the Acropolis, the charming neighborhood of Plaka, and the Ancient Agora.
-  - Includes detailed commentary on the historical and cultural significance of each site.
-  - Ideal for those who want a well-rounded understanding of ancient Athens.
+2. **The Stoa of Attalos**
+   - **Location:** Ancient Agora of Athens
+   - **Highlights:** Reconstructed to its former glory, this stoa houses the Museum of the Ancient Agora. It offers a glimpse into the daily life of ancient Athenians and the marketplace where Stoic ideas were discussed and disseminated.
+   - **What to Bring:** A notebook to jot down your reflections or any thoughts inspired by the artifacts and exhibits.
 
-- **Agora and Hephaistos Temple Entrance Ticket**
-  - Focuses on the Ancient Agora and the well-preserved Temple of Hephaistos.
-  - Provides in-depth information about these key historical sites.
-  - A great option for those specifically interested in these landmarks.
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="stoa" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="771000,256922"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
 
-These options cater to different preferences, making the Ancient Agora accessible to all visitors.
+### Guided Tours
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="4" data-gyg-cmp="ancientagora" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="256922,65156,251622,603169"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
+For a more in-depth experience, consider joining one of these guided tours that will lead you through Athens' rich philosophical heritage, including its Stoic roots.
+
+1. **The Path to Democracy: Acropolis & Agora Tour**
+   - **Duration:** 3 hours
+   - **Overview:** This tour explores the birth of democracy, closely linked to the philosophical movements that flourished in Athens, including Stoicism. You'll visit the Acropolis and the Ancient Agora, with stops at significant sites like the Temple of Hephaestus, where you can contemplate the relationship between Stoic ideals and the democratic principles that shaped Athens.
+  
+2. **Athens Highlights: Myths & Philosophers Private Walking Tour**
+   - **Duration:** 4 hours
+   - **Overview:** This private tour takes you on a journey through Athens' intellectual past, focusing on both mythology and philosophy. You'll walk the same paths as Socrates, Plato, and Zeno, gaining insights into the philosophical discussions that still influence modern thought.
+   
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="stoa" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="603169,251622"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
 
 ### The Ultimate Tour: Acropolis and 6 Archaeological Sites Combo Ticket
 
@@ -105,27 +101,25 @@ This combo ticket is your key to unlocking the philosophical landscape of Athens
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="1" data-gyg-cmp="stoa" data-gyg-partner-id="CTQVJ4W" data-gyg-tour-ids="400152"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/athens-l91/">GetYourGuide</a></span></div>
 
-## Frequently Asked Questions about the Ancient Agora of Athens
+### FAQ: Stoicism in Modern Athens
 
-### What was the Agora used for in ancient Athens?
-The Agora served as the central public space in ancient Athens. It was the heart of political, commercial, social, and religious life, where citizens gathered to discuss politics, shop at the markets, attend religious ceremonies, and engage in philosophical debates.
+#### What is the Stoic school in Athens?
+The Stoic school in Athens, known as the Stoa Poikile (Painted Porch), was where Zeno of Citium, the founder of Stoicism, taught his philosophy. It was located in the Ancient Agora of Athens and was a hub for philosophical discussion and teaching. Today, while the original Stoa Poikile no longer stands, the site remains a significant point of interest for those exploring the roots of Stoic philosophy.
 
-### How long do you need in Ancient Agora of Athens?
-You typically need around 1 to 2 hours to explore the Ancient Agora, depending on your interest level in history and archaeology. This allows time to visit key sites like the Stoa of Attalos, the Temple of Hephaestus, and the museum.
+#### Is Stoicism relevant in modern society?
+Absolutely. Stoicism has seen a resurgence in recent years, particularly among those seeking practical guidance for dealing with life's challenges. Its principles of resilience, rationality, and emotional control resonate with modern audiences, making it as relevant today as it was in ancient times.
 
-### How much does it cost to go to the Ancient Agora of Athens?
-The entrance fee to the Ancient Agora is included in the combined ticket for the Acropolis and several other archaeological sites in Athens. Prices may vary, so it's best to check current rates before your visit.
+#### What are the four virtues of Stoicism in Greek?
+The four cardinal virtues of Stoicism are wisdom (σοφία, sophia), courage (ἀνδρεία, andreia), justice (δικαιοσύνη, dikaiosyne), and temperance (σωφροσύνη, sophrosyne). These virtues are considered essential for leading a good and fulfilling life.
 
-### Is the Ancient Agora worth visiting?
-Absolutely! The Ancient Agora is a must-visit for anyone interested in ancient Greek history, philosophy, and architecture. It offers a unique insight into the daily life of ancient Athenians and the foundation of Western democracy.
+#### Who are the big 3 Stoic philosophers?
+The three most prominent Stoic philosophers are Zeno of Citium, who founded Stoicism; Seneca the Younger, a Roman philosopher and statesman; and Marcus Aurelius, a Roman Emperor whose writings, known as the "Meditations," are considered a key Stoic text.
 
-### What is the difference between the Acropolis and the Agora?
-The Acropolis is a high city that served as the religious center of ancient Athens, home to important temples like the Parthenon. The Agora, on the other hand, was the civic center, where political, social, and commercial activities took place.
+#### Why did Stoicism gain popularity again?
+Stoicism has gained popularity in recent years due to its practical and accessible approach to dealing with everyday challenges. Its emphasis on inner peace, resilience, and rational thinking makes it appealing in today’s fast-paced and often stressful world. The teachings of Stoicism provide timeless advice on how to live a meaningful and contented life, which has resonated with modern audiences, particularly through the work of contemporary authors and influencers who advocate for Stoic principles.
 
-### How do I get into the Ancient Agora?
-The main entrance to the Ancient Agora is located at Adrianou Street, near Monastiraki Square. It's easily accessible by metro, with Monastiraki station being the closest stop.
+#### What is the difference between traditional Stoicism and modern Stoicism?
+Traditional Stoicism, as taught in ancient Athens, emphasized living in accordance with nature, rationality, and virtue as the path to a good life. Modern Stoicism adapts these principles to contemporary life, often focusing on psychological resilience, personal development, and mindfulness. While the core ideas remain the same, modern Stoicism is often more flexible and accessible to a broader audience.
 
-### What are some fun facts about the Agora?
-- The Agora was not only a marketplace but also the birthplace of democracy, where citizens gathered to discuss and vote on public matters.
-- The Stoa of Attalos, a large covered walkway, was rebuilt in the 1950s and now houses the Museum of the Ancient Agora.
-- The Temple of Hephaestus in the Agora is one of the best-preserved ancient temples in Greece.
+#### How to be Stoic in modern times?
+Being Stoic in modern times involves practicing self-control, focusing on what you can control, and maintaining a rational perspective in the face of adversity. This can be achieved through regular reflection, mindfulness, and the application of Stoic exercises, such as negative visualization and journaling.
