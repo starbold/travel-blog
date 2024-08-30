@@ -30,6 +30,8 @@ In the bustling heart of the Agora lies the **Tholos**, a circular building that
 
 The **Bouleuterion** is where the engine of Athenian democracy roared to life. This rectangular building was the meeting place of the Boule, the council of 500 citizens who were chosen to govern Athens. Here, within these unassuming walls, the course of Athenian history was charted. Policies were debated, laws were passed, and the will of the people was translated into action. Visiting the Bouleuterion, you can almost feel the weight of the decisions made here—the echoes of voices debating the issues that would define the city and its legacy. It’s a place where the ideals of democracy were not just discussed but put into practice, and its influence can still be felt in modern democratic institutions around the world.
 
+![ancient-agora-gravure](https://www.athenskey.com/uploads/1/8/0/9/18093069/editor/agoranew_1.jpg?1484490380){: style="width:80%; display:block; margin-left:auto; margin-right:auto;"}
+
 ## Life in the Agora: The Intellectual, Political, and Religious Core of Athens
 
 The Ancient Agora of Athens was a central hub where the most critical aspects of Athenian life intersected—philosophy, politics, and religion. The remnants of this space reveal a site where ideas, governance, and spirituality were deeply intertwined, shaping the very foundation of Western thought.
