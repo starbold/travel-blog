@@ -11,7 +11,7 @@ When most people think of the Ancient Agora of Athens, their minds immediately d
 
 In this post, I want to go a bit deeper into the multiple identities of the Agora, peeling back the layers, from its origins in the 6th century BCE through its transformation under Roman rule, and beyond. In some way, the Agora is a testament to the resilience and adaptability of Athens. 
 
-![Socrates_in_agora]({{ site.baseurl }}/assets/images/Sokrates_agora.jpg){: style="width:90%; display:block; margin-left:auto; margin-right:auto;"} 
+![Socrates_in_agora]({{ site.baseurl }}/assets/images/Socrates_agora.jpg){: style="width:90%; display:block; margin-left:auto; margin-right:auto;"} 
 
 ## **Classical Period (5th–4th century BCE): The Heart of Athenian Democracy**
 
